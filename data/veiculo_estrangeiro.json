@@ -1,0 +1,12 @@
+﻿{
+  "content": [
+    {
+      "total_infracoes": 24249533,
+      "ind_veiculo_estrangeiro": "Não"
+    },
+    {
+      "total_infracoes": 237691,
+      "ind_veiculo_estrangeiro": "Sim"
+    }
+  ]
+}

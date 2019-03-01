@@ -1,0 +1,544 @@
+﻿{
+  "content": [
+    {
+      "total_infracoes": 322327,
+      "nom_municipio": "FEIRA DE SANTANA",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 272865,
+      "nom_municipio": "SALVADOR",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 236408,
+      "nom_municipio": "VITORIA DA CONQUISTA",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 172118,
+      "nom_municipio": "CANDIDO SALES",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 66581,
+      "nom_municipio": "JEQUIE",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 65273,
+      "nom_municipio": "CONCEICAO DO JACUIPE",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 43153,
+      "nom_municipio": "SIMOES FILHO",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 39949,
+      "nom_municipio": "EUNAPOLIS",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 29859,
+      "nom_municipio": "BARREIRAS",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 28567,
+      "nom_municipio": "CANDEIAS",
+      "uf": "BH",
+      "estado": "Bahia"
+    },
+    {
+      "total_infracoes": 470495,
+      "nom_municipio": "FORTALEZA",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 71017,
+      "nom_municipio": "HORIZONTE",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 46754,
+      "nom_municipio": "CAUCAIA",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 45307,
+      "nom_municipio": "CHOROZINHO",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 35327,
+      "nom_municipio": "SOBRAL",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 24837,
+      "nom_municipio": "ARACATI",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 15744,
+      "nom_municipio": "EUSEBIO",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 15686,
+      "nom_municipio": "RUSSAS",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 15363,
+      "nom_municipio": "CANINDE",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 14299,
+      "nom_municipio": "MARACANAU",
+      "uf": "CE",
+      "estado": "Ceará"
+    },
+    {
+      "total_infracoes": 195400,
+      "nom_municipio": "GOIANIA",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 121524,
+      "nom_municipio": "APARECIDA DE GOIANIA",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 102762,
+      "nom_municipio": "ANAPOLIS",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 84524,
+      "nom_municipio": "RIO VERDE",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 55258,
+      "nom_municipio": "CATALAO",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 51752,
+      "nom_municipio": "LUZIANIA",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 44340,
+      "nom_municipio": "ABADIANIA",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 33850,
+      "nom_municipio": "JATAI",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 33135,
+      "nom_municipio": "GOIANAPOLIS",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 30244,
+      "nom_municipio": "ABADIA DE GOIAS",
+      "uf": "GO",
+      "estado": "Goiás"
+    },
+    {
+      "total_infracoes": 457873,
+      "nom_municipio": "GUARULHOS",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 254642,
+      "nom_municipio": "PINDAMONHANGABA",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 217330,
+      "nom_municipio": "BARRA DO TURVO",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 199252,
+      "nom_municipio": "MAIRIPORA",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 165505,
+      "nom_municipio": "TAUBATE",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 146584,
+      "nom_municipio": "ARUJA",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 138026,
+      "nom_municipio": "CACAPAVA",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 135041,
+      "nom_municipio": "SAO JOSE DOS CAMPOS",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 131954,
+      "nom_municipio": "CAJATI",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 124333,
+      "nom_municipio": "GUARATINGUETA",
+      "uf": "MG",
+      "estado": "Minas Gerais"
+    },
+    {
+      "total_infracoes": 94587,
+      "nom_municipio": "CAMPO GRANDE",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 90763,
+      "nom_municipio": "NOVA ALVORADA DO SUL",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 48967,
+      "nom_municipio": "DOURADOS",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 37988,
+      "nom_municipio": "TRES LAGOAS",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 25365,
+      "nom_municipio": "BATAGUASSU",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 24993,
+      "nom_municipio": "GUIA LOPES DA LAGUNA",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 21450,
+      "nom_municipio": "SAO GABRIEL DO OESTE",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 18077,
+      "nom_municipio": "ANASTACIO",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 16483,
+      "nom_municipio": "RIO VERDE DE MATO GROSSO",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 15358,
+      "nom_municipio": "RIO BRILHANTE",
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul"
+    },
+    {
+      "total_infracoes": 203309,
+      "nom_municipio": "PONTA GROSSA",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 122862,
+      "nom_municipio": "CAMPINA GRANDE DO SUL",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 118589,
+      "nom_municipio": "GUARATUBA",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 110932,
+      "nom_municipio": "LARANJEIRAS DO SUL",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 98174,
+      "nom_municipio": "CASCAVEL",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 97298,
+      "nom_municipio": "SAO JOSE DOS PINHAIS",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 91652,
+      "nom_municipio": "LONDRINA",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 87161,
+      "nom_municipio": "FOZ DO IGUACU",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 84526,
+      "nom_municipio": "CURITIBA",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 83725,
+      "nom_municipio": "TIJUCAS DO SUL",
+      "uf": "PR",
+      "estado": "Paraná"
+    },
+    {
+      "total_infracoes": 638559,
+      "nom_municipio": "DUQUE DE CAXIAS",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 496416,
+      "nom_municipio": "PETROPOLIS",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 468329,
+      "nom_municipio": "PIRAI",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 375548,
+      "nom_municipio": "RIO DE JANEIRO",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 330506,
+      "nom_municipio": "NOVA IGUACU",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 185995,
+      "nom_municipio": "NITEROI",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 173556,
+      "nom_municipio": "BARRA MANSA",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 161185,
+      "nom_municipio": "ITABORAI",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 144603,
+      "nom_municipio": "TRES RIOS",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 116416,
+      "nom_municipio": "SAO JOAO DE MERITI",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro"
+    },
+    {
+      "total_infracoes": 57480,
+      "nom_municipio": "SANTO ANTONIO DA PATRULHA",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 52663,
+      "nom_municipio": "GLORINHA",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 43850,
+      "nom_municipio": "ELDORADO DO SUL",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 41233,
+      "nom_municipio": "CAXIAS DO SUL",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 39779,
+      "nom_municipio": "SAO LEOPOLDO",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 39670,
+      "nom_municipio": "ROSARIO DO SUL",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 38328,
+      "nom_municipio": "GRAVATAI",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 38324,
+      "nom_municipio": "PORTO ALEGRE",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 36343,
+      "nom_municipio": "SANTA MARIA",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 35299,
+      "nom_municipio": "PASSO FUNDO",
+      "uf": "RS",
+      "estado": "Rio Grande do Sul"
+    },
+    {
+      "total_infracoes": 182461,
+      "nom_municipio": "SAO JOSE",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 182122,
+      "nom_municipio": "PALHOCA",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 123775,
+      "nom_municipio": "BLUMENAU",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 112676,
+      "nom_municipio": "BIGUACU",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 103753,
+      "nom_municipio": "JOINVILLE",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 86933,
+      "nom_municipio": "BALNEARIO CAMBORIU",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 63352,
+      "nom_municipio": "ITAPEMA",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 60101,
+      "nom_municipio": "BARRA VELHA",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 56546,
+      "nom_municipio": "ITAJAI",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    },
+    {
+      "total_infracoes": 54987,
+      "nom_municipio": "ARARANGUA",
+      "uf": "SC",
+      "estado": "Santa Catarina"
+    }
+  ]
+}
