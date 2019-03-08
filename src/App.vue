@@ -1,29 +1,70 @@
-<template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
-  </div>
+<template lang="pug">
+    div(id="app")
+      v-app#inspire
+        v-toolbar( dark color="primary")
+          v-toolbar-side-icon
+          v-toolbar-title(class="white--text") Ocorrências PRF
+
+          v-spacer
+
+          v-btn(icon)
+            v-icon more_vert
+
+        v-content 
+          v-container(grid-list-md text-xs-center)
+            v-layout(row wrap)
+              v-flex(xs12 sm12 md6)
+                OcurrenciesByVehicleFabricatorChart
+              v-flex(xs12 sm12 md6)
+                OccurrenciesByCarNationalityChart
+              v-flex(xs12 sm12 md6)
+                OccurrenciesByStateChart
+              v-flex(xs12 sm12 md6)
+                OccurrenciesByCityChart
+              v-flex(xs12 sm12 md6)
+                OcurrenciesByApproachChart
+              v-flex(xs12 sm12 md6)
+                OcurrenciesByVehicleChart
+              v-flex(xs12 sm12 md12)
+                OccurrenciesByHourChart
+
+
 </template>
 
+
+
+
+<script>
+import OccurrenciesByHourChart from "./components/graphs/OccurrenciesByHourChart.vue";
+import OccurrenciesByCarNationalityChart from "./components/graphs/OccurrenciesByCarNationalityChart.vue";
+import OccurrenciesByStateChart from "./components/graphs/OccurrenciesByStateChart.vue";
+import OccurrenciesByCityChart from "./components/graphs/OccurrenciesByCityChart.vue";
+import OcurrenciesByVehicleFabricatorChart from "./components/graphs/OcurrenciesByVehicleFabricatorChart.vue";
+import OcurrenciesByApproachChart from "./components/graphs/OcurrenciesByApproachChart.vue";
+import OcurrenciesByVehicleChart from "./components/graphs/OcurrenciesByVehicleChart.vue";
+
+export default {
+  components: {
+    OccurrenciesByHourChart,
+    OccurrenciesByCarNationalityChart,
+    OccurrenciesByCityChart,
+    OccurrenciesByStateChart,
+    OcurrenciesByVehicleFabricatorChart,
+    OcurrenciesByApproachChart,
+    OcurrenciesByVehicleChart
+  }
+};
+</script>
+
+
 <style lang="scss">
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons");
+
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
 }
 </style>
