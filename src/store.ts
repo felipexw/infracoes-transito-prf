@@ -3,21 +3,23 @@ import Vuex from "vuex";
 
 Vue.use(Vuex);
 
+import { ACTIONS } from "@/components/graphs/enums";
+
 export default new Vuex.Store({
   state: {
     hoursFilter: {
-      intial: null,
-      final: null
+      intial: 0,
+      final: 0
     }
   },
   mutations: {
-    changeHoursFilterValue(state, newValue) {
+    updateHoursFilter(state, newValue) {
       state.hoursFilter = newValue;
     }
   },
   actions: {
-    updateHoursFilter(context, newValue) {
-      context.commit("changeHoursFilterValue", newValue);
+    ACTION_HOURS_CHANGED(context, newValue) {
+      context.commit("updateHoursFilter", newValue);
     }
   }
 });

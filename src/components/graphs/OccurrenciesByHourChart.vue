@@ -12,6 +12,7 @@
 export default {
   watch: {
     "$store.state.hoursFilter"(newValue) {
+      debugger;
       this.hoursFilter = newValue;
     }
   },

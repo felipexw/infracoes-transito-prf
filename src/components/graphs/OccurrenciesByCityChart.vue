@@ -6,7 +6,7 @@
                 span Inicial {{ hoursFilter.initialValue }}
                 br
                 span Final {{ hoursFilter.finalValue }}
-</template>
+</template>]
 
 <script>
 export default {

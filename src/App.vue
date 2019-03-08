@@ -38,13 +38,13 @@
 
 <script>
 import OccurrenciesByHourChart from "./components/graphs/OccurrenciesByHourChart.vue";
-import OccurrenciesByCarNationalityChart from "./components/graphs/OccurrenciesByCarNationalityChart.vue";
+import OccurrenciesByCarNationalityChart from "./components/graphs/ocurrencies-by-car-nationality/OccurrenciesByCarNationalityChart.vue";
 import OccurrenciesByStateChart from "./components/graphs/OccurrenciesByStateChart.vue";
 import OccurrenciesByCityChart from "./components/graphs/OccurrenciesByCityChart.vue";
 import OcurrenciesByVehicleFabricatorChart from "./components/graphs/OcurrenciesByVehicleFabricatorChart.vue";
 import OcurrenciesByApproachChart from "./components/graphs/OcurrenciesByApproachChart.vue";
 import OcurrenciesByVehicleChart from "./components/graphs/OcurrenciesByVehicleChart.vue";
-import ChartFilter from "./components/graphs/ChartFilter.vue";
+import ChartFilter from "./components/graphs/chart-filter/ChartFilter.vue";
 
 export default {
   components: {
