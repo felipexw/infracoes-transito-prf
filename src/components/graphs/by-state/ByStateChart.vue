@@ -2,12 +2,12 @@
     div
         v-card
             v-card-text(class="px-0") Agrupados por estados
-               div(id="chartdiv")
+               div(":id"="divName")
                 
 </template>
 
 <style lang="scss">
-#chartdiv {
+#bar-chart-groupped-by-state {
   width: 100%;
   height: 500px;
 }
@@ -29,14 +29,19 @@ export default {
   },
   methods: {
     render() {
-      this.service.fetchDataGrouppedByState()//
-      .then(statesGrouppedByState => {
-        this.service.renderChart(statesGrouppedByState);
-      })
+      this.service
+        .fetchDataGrouppedByState() //
+        .then(statesGrouppedByState => {
+          this.service.renderBarChart({
+            data: statesGrouppedByState,
+            divName: this.divName
+          });
+        });
     }
   },
   data: () => ({
-    hoursFilter: {}
+    hoursFilter: {},
+    divName: "bar-chart-groupped-by-state"
   })
 };
 </script>

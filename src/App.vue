@@ -15,18 +15,8 @@
             v-layout(row wrap)
               v-flex(xs12 sm12 md12)
                 ByStateChart
-              v-flex(xs12 sm12 md6)
-                OcurrenciesByVehicleFabricatorChart
-              v-flex(xs12 sm12 md6)
-                OccurrenciesByCarNationalityChart
-              v-flex(xs12 sm12 md6)
-                OccurrenciesByCityChart
-              v-flex(xs12 sm12 md6)
-                OcurrenciesByApproachChart
-              v-flex(xs12 sm12 md6)
-                OcurrenciesByVehicleChart
               v-flex(xs12 sm12 md12)
-                OccurrenciesByHourChart
+                ByNationalityChart
               v-flex(xs12 sm12 md12)
                 ChartFilter
 
@@ -40,21 +30,12 @@
 import OccurrenciesByHourChart from "./components/graphs/OccurrenciesByHourChart.vue";
 import OccurrenciesByCarNationalityChart from "./components/graphs/ocurrencies-by-car-nationality/OccurrenciesByCarNationalityChart.vue";
 import ByStateChart from "./components/graphs/by-state/ByStateChart.vue";
-import OccurrenciesByCityChart from "./components/graphs/OccurrenciesByCityChart.vue";
-import OcurrenciesByVehicleFabricatorChart from "./components/graphs/OcurrenciesByVehicleFabricatorChart.vue";
-import OcurrenciesByApproachChart from "./components/graphs/OcurrenciesByApproachChart.vue";
-import OcurrenciesByVehicleChart from "./components/graphs/OcurrenciesByVehicleChart.vue";
-import ChartFilter from "./components/graphs/chart-filter/ChartFilter.vue";
+import ByNationalityChart from "./components/graphs/by-nationality/ByNationalityChart.vue";
 
 export default {
   components: {
-    OccurrenciesByHourChart,
-    OccurrenciesByCarNationalityChart,
-    OccurrenciesByCityChart,
+    ByNationalityChart,
     ByStateChart,
-    OcurrenciesByVehicleFabricatorChart,
-    OcurrenciesByApproachChart,
-    OcurrenciesByVehicleChart,
     ChartFilter
   }
 };
