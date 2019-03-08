@@ -1,0 +1,7 @@
+﻿{
+"select count(*) total, mes from infracoes\r\n\tgroup by  mes\r\n\torder by total desc\r\n\t\tlimit 10\r\n\t\r\n\r\n\t": [
+	{
+		"total" : 362210,
+		"mes" : "Novembro"
+	}
+]}

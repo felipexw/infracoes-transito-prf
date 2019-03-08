@@ -1,0 +1,53 @@
+﻿{
+"content": [
+	{
+		"total" : 2347,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "11"
+	},
+	{
+		"total" : 2190,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "10"
+	},
+	{
+		"total" : 2068,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "13"
+	},
+	{
+		"total" : 2062,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "12"
+	},
+	{
+		"total" : 2024,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "14"
+	},
+	{
+		"total" : 2002,
+		"municipio" : "FORTALEZA",
+		"hora" : "15"
+	},
+	{
+		"total" : 1840,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "15"
+	},
+	{
+		"total" : 1753,
+		"municipio" : "PINDAMONHANGABA",
+		"hora" : "10"
+	},
+	{
+		"total" : 1747,
+		"municipio" : "DUQUE DE CAXIAS",
+		"hora" : "09"
+	},
+	{
+		"total" : 1580,
+		"municipio" : "BALNEARIO CAMBORIU",
+		"hora" : "14"
+	}
+]}

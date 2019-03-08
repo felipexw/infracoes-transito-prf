@@ -1,0 +1,63 @@
+﻿{
+"content": [
+	{
+		"total" : 453,
+		"veiculo" : "I\/TOYOTA HILUX C",
+		"hora" : "10",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 372,
+		"veiculo" : "TOYOTA\/COROLLA X",
+		"hora" : "10",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 362,
+		"veiculo" : "I\/TOYOTA HILUX C",
+		"hora" : "15",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 358,
+		"veiculo" : "I\/TOYOTA HILUX C",
+		"hora" : "16",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 352,
+		"veiculo" : "TOYOTA\/COROLLA X",
+		"hora" : "15",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 316,
+		"veiculo" : "I\/TOYOTA HILUX C",
+		"hora" : "09",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 301,
+		"veiculo" : "I\/TOYOTA HILUX C",
+		"hora" : "11",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 288,
+		"veiculo" : "VW\/GOL 1.0",
+		"hora" : "10",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 288,
+		"veiculo" : "RENAULT\/SANDERO ",
+		"hora" : "10",
+		"mes" : "Novembro"
+	},
+	{
+		"total" : 277,
+		"veiculo" : "VW\/GOL 1.0",
+		"hora" : "15",
+		"mes" : "Novembro"
+	}
+]}
