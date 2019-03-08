@@ -2,8 +2,21 @@
     div
         v-card
             v-card-text(class="px-0") Cidades
+               div 
+                span Inicial {{ hoursFilter.initialValue }}
+                br
+                span Final {{ hoursFilter.finalValue }}
 </template>
 
 <script>
-export default {};
+export default {
+  watch: {
+    "$store.state.hoursFilter"(newValue) {
+      this.hoursFilter = newValue;
+    }
+  },
+  data: () => ({
+    hoursFilter: {}
+  })
+};
 </script>

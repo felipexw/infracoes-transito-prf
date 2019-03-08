@@ -27,6 +27,8 @@
                 OcurrenciesByVehicleChart
               v-flex(xs12 sm12 md12)
                 OccurrenciesByHourChart
+              v-flex(xs12 sm12 md12)
+                ChartFilter
 
 
 </template>
@@ -42,6 +44,7 @@ import OccurrenciesByCityChart from "./components/graphs/OccurrenciesByCityChart
 import OcurrenciesByVehicleFabricatorChart from "./components/graphs/OcurrenciesByVehicleFabricatorChart.vue";
 import OcurrenciesByApproachChart from "./components/graphs/OcurrenciesByApproachChart.vue";
 import OcurrenciesByVehicleChart from "./components/graphs/OcurrenciesByVehicleChart.vue";
+import ChartFilter from "./components/graphs/ChartFilter.vue";
 
 export default {
   components: {
@@ -51,7 +54,8 @@ export default {
     OccurrenciesByStateChart,
     OcurrenciesByVehicleFabricatorChart,
     OcurrenciesByApproachChart,
-    OcurrenciesByVehicleChart
+    OcurrenciesByVehicleChart,
+    ChartFilter
   }
 };
 </script>
