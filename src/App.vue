@@ -13,12 +13,12 @@
         v-content 
           v-container(grid-list-md text-xs-center)
             v-layout(row wrap)
+              v-flex(xs12 sm12 md12)
+                ByStateChart
               v-flex(xs12 sm12 md6)
                 OcurrenciesByVehicleFabricatorChart
               v-flex(xs12 sm12 md6)
                 OccurrenciesByCarNationalityChart
-              v-flex(xs12 sm12 md6)
-                OccurrenciesByStateChart
               v-flex(xs12 sm12 md6)
                 OccurrenciesByCityChart
               v-flex(xs12 sm12 md6)
@@ -39,7 +39,7 @@
 <script>
 import OccurrenciesByHourChart from "./components/graphs/OccurrenciesByHourChart.vue";
 import OccurrenciesByCarNationalityChart from "./components/graphs/ocurrencies-by-car-nationality/OccurrenciesByCarNationalityChart.vue";
-import OccurrenciesByStateChart from "./components/graphs/OccurrenciesByStateChart.vue";
+import ByStateChart from "./components/graphs/by-state/ByStateChart.vue";
 import OccurrenciesByCityChart from "./components/graphs/OccurrenciesByCityChart.vue";
 import OcurrenciesByVehicleFabricatorChart from "./components/graphs/OcurrenciesByVehicleFabricatorChart.vue";
 import OcurrenciesByApproachChart from "./components/graphs/OcurrenciesByApproachChart.vue";
@@ -51,7 +51,7 @@ export default {
     OccurrenciesByHourChart,
     OccurrenciesByCarNationalityChart,
     OccurrenciesByCityChart,
-    OccurrenciesByStateChart,
+    ByStateChart,
     OcurrenciesByVehicleFabricatorChart,
     OcurrenciesByApproachChart,
     OcurrenciesByVehicleChart,
