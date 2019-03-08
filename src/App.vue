@@ -27,16 +27,15 @@
 
 
 <script>
-import OccurrenciesByHourChart from "./components/graphs/OccurrenciesByHourChart.vue";
-import OccurrenciesByCarNationalityChart from "./components/graphs/ocurrencies-by-car-nationality/OccurrenciesByCarNationalityChart.vue";
 import ByStateChart from "./components/graphs/by-state/ByStateChart.vue";
 import ByNationalityChart from "./components/graphs/by-nationality/ByNationalityChart.vue";
+import ChartFilter from "./components/graphs/chart-filter/ChartFilter.vue";
 
 export default {
   components: {
-    ByNationalityChart,
     ByStateChart,
-    ChartFilter
+    ByNationalityChart,
+    ChartFilter    
   }
 };
 </script>

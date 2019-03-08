@@ -2,10 +2,18 @@
     div
         v-card
             v-card-text(class="px-0") Nacionalidade
-            div(":id"="divName" ":style"="chartContainerStyle")                
+              div(":id"="divName")                
 </template>
+<style>
+#groupedByNationality {
+  width: "100%";
+  height: "500px";
+}
+</style>
+
 <script>
 import OcurrenciesByCarNationalityService from "./ocurrencies-by-car-nationality";
+import { AmchartsBar } from "../enums";
 export default {
   watch: {
     "$store.state.hoursFilter"(newValue) {
@@ -19,16 +27,20 @@ export default {
     this.service
       .fetchDataGrouppedByNationality() //
       .then(data => {
-        this.service.renderBarChart({ divName: this.divName, data: data });
+        console.log(data)
+        const chartConfigOpations = new AmchartsBar(
+          "veiculo_estrangeiro",
+          "total",
+          data,
+          this.divName,
+          "Veículo Estrangeiro"
+        );
+        this.service.renderBarChart(chartConfigOpations);
       });
   },
   data: () => ({
     hoursFilter: {},
-    divName: "groupedByNationality",
-    chartContainerStyle: {
-      width: "100%",
-      height: "500px"
-    }
+    divName: "groupedByNationality"
   })
 };
 </script>

@@ -15,6 +15,7 @@
 
 <script>
 import OcurrenciesByStateService from "./ocurrencies-by-state-service";
+import { AmchartsBar } from "../enums";
 export default {
   watch: {
     "$store.state.hoursFilter"(newValue) {
@@ -32,10 +33,15 @@ export default {
       this.service
         .fetchDataGrouppedByState() //
         .then(statesGrouppedByState => {
-          this.service.renderBarChart({
-            data: statesGrouppedByState,
-            divName: this.divName
-          });
+          const chartConfigOpations = new AmchartsBar(
+            "uf",
+            "total",
+            statesGrouppedByState,
+            this.divName,
+            "Estado"
+          );
+
+          this.service.renderBarChart(chartConfigOpations);
         });
     }
   },

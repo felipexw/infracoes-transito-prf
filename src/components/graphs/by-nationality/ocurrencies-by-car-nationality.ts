@@ -1,12 +1,8 @@
 import Service from "../shared/service";
 
-const grouppedByNationality = require("");
+const grouppedByNationality = require("../../../../data/agrupado_por_nacionalidade");
 
 export default class OcurrenciesByCarNationalityService extends Service {
-  constructor() {
-    super();
-  }
-
   fetchDataGrouppedByNationality() {
     return new Promise(resolve => {
       resolve(grouppedByNationality.content);

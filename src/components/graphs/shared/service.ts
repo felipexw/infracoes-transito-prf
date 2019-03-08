@@ -4,16 +4,17 @@ import am4themes_animated from "@amcharts/amcharts4/themes/animated";
 
 am4core.useTheme(am4themes_animated);
 
+import { AmchartsBar } from "../enums";
 export default class Service {
   static build() {
     return new this();
   }
 
-  renderBarChart(args: any) {
-    let chart = am4core.create(args.divName, am4charts.XYChart);
+  renderBarChart(configOptions: AmchartsBar) {
+    let chart = am4core.create(configOptions.divName, am4charts.XYChart);
 
     // Add data
-    chart.data = args.data;
+    chart.data = configOptions.data;
 
     // Create axes
 
@@ -33,9 +34,9 @@ export default class Service {
 
     // Create series
     let series = chart.series.push(new am4charts.ColumnSeries());
-    series.dataFields.valueY = "total";
-    series.dataFields.categoryX = "uf";
-    series.name = "Estado";
+    series.dataFields.valueY = configOptions.valueY;
+    series.dataFields.categoryX = configOptions.valueX;
+    series.name = configOptions.seriesName;
     series.columns.template.tooltipText = "{categoryX}: [bold]{valueY}[/]";
     series.columns.template.fillOpacity = 0.8;
 
