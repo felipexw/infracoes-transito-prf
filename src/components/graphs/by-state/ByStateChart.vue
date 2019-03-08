@@ -14,6 +14,7 @@
 </style>
 
 <script>
+//TODO: adicionar quadro indicando data de início e término utilizada no filtro.
 import OcurrenciesByStateService from "./ocurrencies-by-state-service";
 import { AmchartsBar } from "../enums";
 export default {
