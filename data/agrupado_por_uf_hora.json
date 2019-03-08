@@ -1,4 +1,4 @@
-﻿{
+{
 "content": [
 	{
 		"total" : 8000,
@@ -49,5 +49,3060 @@
 		"total" : 5865,
 		"uf" : "RJ",
 		"hora" : "16"
+	},
+	{
+		"total" : 5794,
+		"uf" : "RJ",
+		"hora" : "09"
+	},
+	{
+		"total" : 5635,
+		"uf" : "SP",
+		"hora" : "11"
+	},
+	{
+		"total" : 5364,
+		"uf" : "RJ",
+		"hora" : "17"
+	},
+	{
+		"total" : 5227,
+		"uf" : "SP",
+		"hora" : "14"
+	},
+	{
+		"total" : 4940,
+		"uf" : "RJ",
+		"hora" : "08"
+	},
+	{
+		"total" : 4787,
+		"uf" : "MG",
+		"hora" : "10"
+	},
+	{
+		"total" : 4704,
+		"uf" : "MG",
+		"hora" : "16"
+	},
+	{
+		"total" : 4609,
+		"uf" : "SP",
+		"hora" : "09"
+	},
+	{
+		"total" : 4439,
+		"uf" : "MG",
+		"hora" : "15"
+	},
+	{
+		"total" : 4339,
+		"uf" : "SP",
+		"hora" : "12"
+	},
+	{
+		"total" : 4317,
+		"uf" : "RJ",
+		"hora" : "18"
+	},
+	{
+		"total" : 4275,
+		"uf" : "MG",
+		"hora" : "11"
+	},
+	{
+		"total" : 4234,
+		"uf" : "MG",
+		"hora" : "09"
+	},
+	{
+		"total" : 3998,
+		"uf" : "MG",
+		"hora" : "17"
+	},
+	{
+		"total" : 3996,
+		"uf" : "SP",
+		"hora" : "13"
+	},
+	{
+		"total" : 3934,
+		"uf" : "SC",
+		"hora" : "11"
+	},
+	{
+		"total" : 3927,
+		"uf" : "SP",
+		"hora" : "17"
+	},
+	{
+		"total" : 3861,
+		"uf" : "RJ",
+		"hora" : "07"
+	},
+	{
+		"total" : 3831,
+		"uf" : "SC",
+		"hora" : "10"
+	},
+	{
+		"total" : 3751,
+		"uf" : "MG",
+		"hora" : "14"
+	},
+	{
+		"total" : 3451,
+		"uf" : "MG",
+		"hora" : "08"
+	},
+	{
+		"total" : 3442,
+		"uf" : "SC",
+		"hora" : "14"
+	},
+	{
+		"total" : 3356,
+		"uf" : "SC",
+		"hora" : "15"
+	},
+	{
+		"total" : 3254,
+		"uf" : "PR",
+		"hora" : "10"
+	},
+	{
+		"total" : 3123,
+		"uf" : "MG",
+		"hora" : "12"
+	},
+	{
+		"total" : 3042,
+		"uf" : "MG",
+		"hora" : "18"
+	},
+	{
+		"total" : 3002,
+		"uf" : "MG",
+		"hora" : "13"
+	},
+	{
+		"total" : 2958,
+		"uf" : "PR",
+		"hora" : "11"
+	},
+	{
+		"total" : 2681,
+		"uf" : "SC",
+		"hora" : "09"
+	},
+	{
+		"total" : 2680,
+		"uf" : "SP",
+		"hora" : "18"
+	},
+	{
+		"total" : 2654,
+		"uf" : "SC",
+		"hora" : "16"
+	},
+	{
+		"total" : 2633,
+		"uf" : "RJ",
+		"hora" : "06"
+	},
+	{
+		"total" : 2544,
+		"uf" : "PR",
+		"hora" : "09"
+	},
+	{
+		"total" : 2544,
+		"uf" : "SP",
+		"hora" : "08"
+	},
+	{
+		"total" : 2391,
+		"uf" : "SC",
+		"hora" : "13"
+	},
+	{
+		"total" : 2337,
+		"uf" : "MG",
+		"hora" : "07"
+	},
+	{
+		"total" : 2322,
+		"uf" : "PR",
+		"hora" : "15"
+	},
+	{
+		"total" : 2280,
+		"uf" : "CE",
+		"hora" : "15"
+	},
+	{
+		"total" : 2127,
+		"uf" : "RJ",
+		"hora" : "19"
+	},
+	{
+		"total" : 2095,
+		"uf" : "SC",
+		"hora" : "17"
+	},
+	{
+		"total" : 2081,
+		"uf" : "SP",
+		"hora" : "07"
+	},
+	{
+		"total" : 1996,
+		"uf" : "SC",
+		"hora" : "12"
+	},
+	{
+		"total" : 1883,
+		"uf" : "SP",
+		"hora" : "19"
+	},
+	{
+		"total" : 1852,
+		"uf" : "CE",
+		"hora" : "10"
+	},
+	{
+		"total" : 1824,
+		"uf" : "BA",
+		"hora" : "10"
+	},
+	{
+		"total" : 1707,
+		"uf" : "BA",
+		"hora" : "15"
+	},
+	{
+		"total" : 1695,
+		"uf" : "SP",
+		"hora" : "20"
+	},
+	{
+		"total" : 1663,
+		"uf" : "CE",
+		"hora" : "14"
+	},
+	{
+		"total" : 1648,
+		"uf" : "SP",
+		"hora" : "23"
+	},
+	{
+		"total" : 1616,
+		"uf" : "CE",
+		"hora" : "16"
+	},
+	{
+		"total" : 1606,
+		"uf" : "MG",
+		"hora" : "19"
+	},
+	{
+		"total" : 1589,
+		"uf" : "SP",
+		"hora" : "00"
+	},
+	{
+		"total" : 1588,
+		"uf" : "RJ",
+		"hora" : "20"
+	},
+	{
+		"total" : 1576,
+		"uf" : "CE",
+		"hora" : "09"
+	},
+	{
+		"total" : 1554,
+		"uf" : "RJ",
+		"hora" : "21"
+	},
+	{
+		"total" : 1553,
+		"uf" : "PR",
+		"hora" : "16"
+	},
+	{
+		"total" : 1527,
+		"uf" : "BA",
+		"hora" : "09"
+	},
+	{
+		"total" : 1516,
+		"uf" : "SP",
+		"hora" : "21"
+	},
+	{
+		"total" : 1496,
+		"uf" : "PR",
+		"hora" : "14"
+	},
+	{
+		"total" : 1492,
+		"uf" : "PR",
+		"hora" : "17"
+	},
+	{
+		"total" : 1485,
+		"uf" : "SC",
+		"hora" : "18"
+	},
+	{
+		"total" : 1480,
+		"uf" : "SP",
+		"hora" : "22"
+	},
+	{
+		"total" : 1479,
+		"uf" : "SP",
+		"hora" : "01"
+	},
+	{
+		"total" : 1470,
+		"uf" : "SP",
+		"hora" : "06"
+	},
+	{
+		"total" : 1449,
+		"uf" : "SP",
+		"hora" : "05"
+	},
+	{
+		"total" : 1445,
+		"uf" : "BA",
+		"hora" : "11"
+	},
+	{
+		"total" : 1435,
+		"uf" : "PR",
+		"hora" : "12"
+	},
+	{
+		"total" : 1431,
+		"uf" : "PR",
+		"hora" : "13"
+	},
+	{
+		"total" : 1402,
+		"uf" : "RS",
+		"hora" : "16"
+	},
+	{
+		"total" : 1398,
+		"uf" : "RJ",
+		"hora" : "22"
+	},
+	{
+		"total" : 1374,
+		"uf" : "RS",
+		"hora" : "15"
+	},
+	{
+		"total" : 1361,
+		"uf" : "PR",
+		"hora" : "18"
+	},
+	{
+		"total" : 1358,
+		"uf" : "RS",
+		"hora" : "17"
+	},
+	{
+		"total" : 1332,
+		"uf" : "SC",
+		"hora" : "08"
+	},
+	{
+		"total" : 1315,
+		"uf" : "BA",
+		"hora" : "16"
+	},
+	{
+		"total" : 1294,
+		"uf" : "RJ",
+		"hora" : "23"
+	},
+	{
+		"total" : 1261,
+		"uf" : "SP",
+		"hora" : "04"
+	},
+	{
+		"total" : 1243,
+		"uf" : "PB",
+		"hora" : "15"
+	},
+	{
+		"total" : 1238,
+		"uf" : "SP",
+		"hora" : "02"
+	},
+	{
+		"total" : 1136,
+		"uf" : "SP",
+		"hora" : "03"
+	},
+	{
+		"total" : 1129,
+		"uf" : "MG",
+		"hora" : "06"
+	},
+	{
+		"total" : 1126,
+		"uf" : "RJ",
+		"hora" : "00"
+	},
+	{
+		"total" : 1066,
+		"uf" : "BA",
+		"hora" : "17"
+	},
+	{
+		"total" : 1062,
+		"uf" : "RS",
+		"hora" : "11"
+	},
+	{
+		"total" : 1046,
+		"uf" : "PR",
+		"hora" : "08"
+	},
+	{
+		"total" : 1027,
+		"uf" : "PB",
+		"hora" : "16"
+	},
+	{
+		"total" : 1022,
+		"uf" : "RJ",
+		"hora" : "05"
+	},
+	{
+		"total" : 984,
+		"uf" : "MT",
+		"hora" : "10"
+	},
+	{
+		"total" : 983,
+		"uf" : "BA",
+		"hora" : "14"
+	},
+	{
+		"total" : 977,
+		"uf" : "PB",
+		"hora" : "10"
+	},
+	{
+		"total" : 974,
+		"uf" : "BA",
+		"hora" : "08"
+	},
+	{
+		"total" : 970,
+		"uf" : "RS",
+		"hora" : "10"
+	},
+	{
+		"total" : 936,
+		"uf" : "RS",
+		"hora" : "14"
+	},
+	{
+		"total" : 932,
+		"uf" : "RJ",
+		"hora" : "01"
+	},
+	{
+		"total" : 916,
+		"uf" : "SC",
+		"hora" : "19"
+	},
+	{
+		"total" : 900,
+		"uf" : "CE",
+		"hora" : "08"
+	},
+	{
+		"total" : 868,
+		"uf" : "RS",
+		"hora" : "09"
+	},
+	{
+		"total" : 866,
+		"uf" : "BA",
+		"hora" : "07"
+	},
+	{
+		"total" : 863,
+		"uf" : "MG",
+		"hora" : "20"
+	},
+	{
+		"total" : 854,
+		"uf" : "RS",
+		"hora" : "18"
+	},
+	{
+		"total" : 850,
+		"uf" : "PR",
+		"hora" : "19"
+	},
+	{
+		"total" : 841,
+		"uf" : "ES",
+		"hora" : "10"
+	},
+	{
+		"total" : 822,
+		"uf" : "GO",
+		"hora" : "10"
+	},
+	{
+		"total" : 820,
+		"uf" : "RJ",
+		"hora" : "04"
+	},
+	{
+		"total" : 788,
+		"uf" : "ES",
+		"hora" : "15"
+	},
+	{
+		"total" : 788,
+		"uf" : "PB",
+		"hora" : "09"
+	},
+	{
+		"total" : 770,
+		"uf" : "GO",
+		"hora" : "17"
+	},
+	{
+		"total" : 752,
+		"uf" : "GO",
+		"hora" : "11"
+	},
+	{
+		"total" : 715,
+		"uf" : "PB",
+		"hora" : "11"
+	},
+	{
+		"total" : 701,
+		"uf" : "SC",
+		"hora" : "07"
+	},
+	{
+		"total" : 690,
+		"uf" : "RJ",
+		"hora" : "02"
+	},
+	{
+		"total" : 665,
+		"uf" : "MT",
+		"hora" : "09"
+	},
+	{
+		"total" : 657,
+		"uf" : "GO",
+		"hora" : "15"
+	},
+	{
+		"total" : 644,
+		"uf" : "MS",
+		"hora" : "10"
+	},
+	{
+		"total" : 643,
+		"uf" : "GO",
+		"hora" : "16"
+	},
+	{
+		"total" : 639,
+		"uf" : "MG",
+		"hora" : "21"
+	},
+	{
+		"total" : 622,
+		"uf" : "MT",
+		"hora" : "14"
+	},
+	{
+		"total" : 616,
+		"uf" : "PR",
+		"hora" : "07"
+	},
+	{
+		"total" : 602,
+		"uf" : "RJ",
+		"hora" : "03"
+	},
+	{
+		"total" : 602,
+		"uf" : "ES",
+		"hora" : "16"
+	},
+	{
+		"total" : 563,
+		"uf" : "CE",
+		"hora" : "11"
+	},
+	{
+		"total" : 553,
+		"uf" : "ES",
+		"hora" : "09"
+	},
+	{
+		"total" : 545,
+		"uf" : "MT",
+		"hora" : "11"
+	},
+	{
+		"total" : 543,
+		"uf" : "GO",
+		"hora" : "09"
+	},
+	{
+		"total" : 538,
+		"uf" : "BA",
+		"hora" : "13"
+	},
+	{
+		"total" : 533,
+		"uf" : "GO",
+		"hora" : "18"
+	},
+	{
+		"total" : 533,
+		"uf" : "GO",
+		"hora" : "08"
+	},
+	{
+		"total" : 530,
+		"uf" : "PE",
+		"hora" : "10"
+	},
+	{
+		"total" : 528,
+		"uf" : "MG",
+		"hora" : "22"
+	},
+	{
+		"total" : 506,
+		"uf" : "MS",
+		"hora" : "16"
+	},
+	{
+		"total" : 488,
+		"uf" : "PA",
+		"hora" : "17"
+	},
+	{
+		"total" : 480,
+		"uf" : "PE",
+		"hora" : "16"
+	},
+	{
+		"total" : 473,
+		"uf" : "PE",
+		"hora" : "11"
+	},
+	{
+		"total" : 471,
+		"uf" : "PE",
+		"hora" : "09"
+	},
+	{
+		"total" : 468,
+		"uf" : "PI",
+		"hora" : "17"
+	},
+	{
+		"total" : 460,
+		"uf" : "MT",
+		"hora" : "15"
+	},
+	{
+		"total" : 460,
+		"uf" : "PB",
+		"hora" : "17"
+	},
+	{
+		"total" : 459,
+		"uf" : "ES",
+		"hora" : "17"
+	},
+	{
+		"total" : 450,
+		"uf" : "PA",
+		"hora" : "16"
+	},
+	{
+		"total" : 449,
+		"uf" : "MT",
+		"hora" : "13"
+	},
+	{
+		"total" : 432,
+		"uf" : "PE",
+		"hora" : "15"
+	},
+	{
+		"total" : 431,
+		"uf" : "MG",
+		"hora" : "23"
+	},
+	{
+		"total" : 427,
+		"uf" : "PE",
+		"hora" : "17"
+	},
+	{
+		"total" : 419,
+		"uf" : "SC",
+		"hora" : "06"
+	},
+	{
+		"total" : 416,
+		"uf" : "MS",
+		"hora" : "09"
+	},
+	{
+		"total" : 410,
+		"uf" : "PR",
+		"hora" : "20"
+	},
+	{
+		"total" : 409,
+		"uf" : "PI",
+		"hora" : "16"
+	},
+	{
+		"total" : 407,
+		"uf" : "MT",
+		"hora" : "16"
+	},
+	{
+		"total" : 396,
+		"uf" : "CE",
+		"hora" : "17"
+	},
+	{
+		"total" : 396,
+		"uf" : "RS",
+		"hora" : "08"
+	},
+	{
+		"total" : 395,
+		"uf" : "MA",
+		"hora" : "16"
+	},
+	{
+		"total" : 395,
+		"uf" : "BA",
+		"hora" : "12"
+	},
+	{
+		"total" : 394,
+		"uf" : "PI",
+		"hora" : "10"
+	},
+	{
+		"total" : 391,
+		"uf" : "PA",
+		"hora" : "11"
+	},
+	{
+		"total" : 381,
+		"uf" : "RS",
+		"hora" : "19"
+	},
+	{
+		"total" : 381,
+		"uf" : "MS",
+		"hora" : "17"
+	},
+	{
+		"total" : 379,
+		"uf" : "PA",
+		"hora" : "10"
+	},
+	{
+		"total" : 368,
+		"uf" : "PI",
+		"hora" : "11"
+	},
+	{
+		"total" : 365,
+		"uf" : "PA",
+		"hora" : "09"
+	},
+	{
+		"total" : 365,
+		"uf" : "MG",
+		"hora" : "00"
+	},
+	{
+		"total" : 362,
+		"uf" : "MA",
+		"hora" : "17"
+	},
+	{
+		"total" : 360,
+		"uf" : "ES",
+		"hora" : "18"
+	},
+	{
+		"total" : 357,
+		"uf" : "ES",
+		"hora" : "14"
+	},
+	{
+		"total" : 356,
+		"uf" : "SC",
+		"hora" : "00"
+	},
+	{
+		"total" : 356,
+		"uf" : "SC",
+		"hora" : "21"
+	},
+	{
+		"total" : 354,
+		"uf" : "MS",
+		"hora" : "15"
+	},
+	{
+		"total" : 353,
+		"uf" : "GO",
+		"hora" : "14"
+	},
+	{
+		"total" : 352,
+		"uf" : "SC",
+		"hora" : "20"
+	},
+	{
+		"total" : 351,
+		"uf" : "SC",
+		"hora" : "23"
+	},
+	{
+		"total" : 342,
+		"uf" : "PE",
+		"hora" : "14"
+	},
+	{
+		"total" : 339,
+		"uf" : "PR",
+		"hora" : "21"
+	},
+	{
+		"total" : 334,
+		"uf" : "ES",
+		"hora" : "11"
+	},
+	{
+		"total" : 330,
+		"uf" : "RO",
+		"hora" : "10"
+	},
+	{
+		"total" : 325,
+		"uf" : "PB",
+		"hora" : "14"
+	},
+	{
+		"total" : 324,
+		"uf" : "MT",
+		"hora" : "08"
+	},
+	{
+		"total" : 321,
+		"uf" : "PI",
+		"hora" : "15"
+	},
+	{
+		"total" : 321,
+		"uf" : "MA",
+		"hora" : "10"
+	},
+	{
+		"total" : 317,
+		"uf" : "SC",
+		"hora" : "22"
+	},
+	{
+		"total" : 316,
+		"uf" : "PR",
+		"hora" : "22"
+	},
+	{
+		"total" : 315,
+		"uf" : "PI",
+		"hora" : "09"
+	},
+	{
+		"total" : 309,
+		"uf" : "PA",
+		"hora" : "18"
+	},
+	{
+		"total" : 309,
+		"uf" : "MA",
+		"hora" : "11"
+	},
+	{
+		"total" : 306,
+		"uf" : "MG",
+		"hora" : "01"
+	},
+	{
+		"total" : 303,
+		"uf" : "MG",
+		"hora" : "05"
+	},
+	{
+		"total" : 301,
+		"uf" : "RS",
+		"hora" : "12"
+	},
+	{
+		"total" : 298,
+		"uf" : "MS",
+		"hora" : "11"
+	},
+	{
+		"total" : 298,
+		"uf" : "PA",
+		"hora" : "15"
+	},
+	{
+		"total" : 297,
+		"uf" : "BA",
+		"hora" : "18"
+	},
+	{
+		"total" : 293,
+		"uf" : "MS",
+		"hora" : "18"
+	},
+	{
+		"total" : 289,
+		"uf" : "MA",
+		"hora" : "09"
+	},
+	{
+		"total" : 285,
+		"uf" : "MT",
+		"hora" : "17"
+	},
+	{
+		"total" : 285,
+		"uf" : "PB",
+		"hora" : "08"
+	},
+	{
+		"total" : 274,
+		"uf" : "GO",
+		"hora" : "19"
+	},
+	{
+		"total" : 268,
+		"uf" : "PR",
+		"hora" : "06"
+	},
+	{
+		"total" : 267,
+		"uf" : "RO",
+		"hora" : "09"
+	},
+	{
+		"total" : 263,
+		"uf" : "RN",
+		"hora" : "16"
+	},
+	{
+		"total" : 258,
+		"uf" : "MT",
+		"hora" : "12"
+	},
+	{
+		"total" : 255,
+		"uf" : "MS",
+		"hora" : "14"
+	},
+	{
+		"total" : 252,
+		"uf" : "PR",
+		"hora" : "23"
+	},
+	{
+		"total" : 251,
+		"uf" : "CE",
+		"hora" : "07"
+	},
+	{
+		"total" : 249,
+		"uf" : "PI",
+		"hora" : "18"
+	},
+	{
+		"total" : 246,
+		"uf" : "SC",
+		"hora" : "01"
+	},
+	{
+		"total" : 245,
+		"uf" : "RS",
+		"hora" : "13"
+	},
+	{
+		"total" : 244,
+		"uf" : "PI",
+		"hora" : "19"
+	},
+	{
+		"total" : 235,
+		"uf" : "MA",
+		"hora" : "15"
+	},
+	{
+		"total" : 234,
+		"uf" : "SC",
+		"hora" : "05"
+	},
+	{
+		"total" : 233,
+		"uf" : "PE",
+		"hora" : "08"
+	},
+	{
+		"total" : 229,
+		"uf" : "RO",
+		"hora" : "15"
+	},
+	{
+		"total" : 220,
+		"uf" : "RO",
+		"hora" : "11"
+	},
+	{
+		"total" : 217,
+		"uf" : "MG",
+		"hora" : "02"
+	},
+	{
+		"total" : 216,
+		"uf" : "MG",
+		"hora" : "03"
+	},
+	{
+		"total" : 215,
+		"uf" : "RO",
+		"hora" : "17"
+	},
+	{
+		"total" : 214,
+		"uf" : "RO",
+		"hora" : "16"
+	},
+	{
+		"total" : 214,
+		"uf" : "GO",
+		"hora" : "12"
+	},
+	{
+		"total" : 214,
+		"uf" : "PA",
+		"hora" : "08"
+	},
+	{
+		"total" : 212,
+		"uf" : "MA",
+		"hora" : "07"
+	},
+	{
+		"total" : 209,
+		"uf" : "PA",
+		"hora" : "12"
+	},
+	{
+		"total" : 202,
+		"uf" : "RN",
+		"hora" : "17"
+	},
+	{
+		"total" : 202,
+		"uf" : "SC",
+		"hora" : "02"
+	},
+	{
+		"total" : 198,
+		"uf" : "RS",
+		"hora" : "20"
+	},
+	{
+		"total" : 198,
+		"uf" : "DF",
+		"hora" : "15"
+	},
+	{
+		"total" : 195,
+		"uf" : "PA",
+		"hora" : "13"
+	},
+	{
+		"total" : 192,
+		"uf" : "PE",
+		"hora" : "12"
+	},
+	{
+		"total" : 192,
+		"uf" : "GO",
+		"hora" : "07"
+	},
+	{
+		"total" : 188,
+		"uf" : "SC",
+		"hora" : "04"
+	},
+	{
+		"total" : 187,
+		"uf" : "CE",
+		"hora" : "13"
+	},
+	{
+		"total" : 186,
+		"uf" : "MA",
+		"hora" : "08"
+	},
+	{
+		"total" : 186,
+		"uf" : "MG",
+		"hora" : "04"
+	},
+	{
+		"total" : 184,
+		"uf" : "AM",
+		"hora" : "16"
+	},
+	{
+		"total" : 184,
+		"uf" : "RS",
+		"hora" : "07"
+	},
+	{
+		"total" : 183,
+		"uf" : "MT",
+		"hora" : "19"
+	},
+	{
+		"total" : 179,
+		"uf" : "SC",
+		"hora" : "03"
+	},
+	{
+		"total" : 176,
+		"uf" : "RN",
+		"hora" : "10"
+	},
+	{
+		"total" : 171,
+		"uf" : "AM",
+		"hora" : "17"
+	},
+	{
+		"total" : 168,
+		"uf" : "BA",
+		"hora" : "19"
+	},
+	{
+		"total" : 166,
+		"uf" : "PI",
+		"hora" : "08"
+	},
+	{
+		"total" : 165,
+		"uf" : "MT",
+		"hora" : "18"
+	},
+	{
+		"total" : 165,
+		"uf" : "AL",
+		"hora" : "10"
+	},
+	{
+		"total" : 163,
+		"uf" : "PA",
+		"hora" : "14"
+	},
+	{
+		"total" : 162,
+		"uf" : "RN",
+		"hora" : "11"
+	},
+	{
+		"total" : 161,
+		"uf" : "RN",
+		"hora" : "15"
+	},
+	{
+		"total" : 157,
+		"uf" : "MA",
+		"hora" : "18"
+	},
+	{
+		"total" : 154,
+		"uf" : "CE",
+		"hora" : "18"
+	},
+	{
+		"total" : 154,
+		"uf" : "AM",
+		"hora" : "15"
+	},
+	{
+		"total" : 154,
+		"uf" : "PA",
+		"hora" : "07"
+	},
+	{
+		"total" : 153,
+		"uf" : "PR",
+		"hora" : "00"
+	},
+	{
+		"total" : 151,
+		"uf" : "PE",
+		"hora" : "18"
+	},
+	{
+		"total" : 148,
+		"uf" : "BA",
+		"hora" : "06"
+	},
+	{
+		"total" : 143,
+		"uf" : "GO",
+		"hora" : "13"
+	},
+	{
+		"total" : 142,
+		"uf" : "PB",
+		"hora" : "18"
+	},
+	{
+		"total" : 142,
+		"uf" : "PR",
+		"hora" : "05"
+	},
+	{
+		"total" : 140,
+		"uf" : "ES",
+		"hora" : "08"
+	},
+	{
+		"total" : 139,
+		"uf" : "MS",
+		"hora" : "08"
+	},
+	{
+		"total" : 139,
+		"uf" : "PR",
+		"hora" : "01"
+	},
+	{
+		"total" : 138,
+		"uf" : "AM",
+		"hora" : "10"
+	},
+	{
+		"total" : 137,
+		"uf" : "PI",
+		"hora" : "14"
+	},
+	{
+		"total" : 134,
+		"uf" : "ES",
+		"hora" : "19"
+	},
+	{
+		"total" : 134,
+		"uf" : "PB",
+		"hora" : "12"
+	},
+	{
+		"total" : 131,
+		"uf" : "PI",
+		"hora" : "21"
+	},
+	{
+		"total" : 129,
+		"uf" : "PA",
+		"hora" : "20"
+	},
+	{
+		"total" : 129,
+		"uf" : "MT",
+		"hora" : "20"
+	},
+	{
+		"total" : 128,
+		"uf" : "MA",
+		"hora" : "14"
+	},
+	{
+		"total" : 124,
+		"uf" : "SE",
+		"hora" : "09"
+	},
+	{
+		"total" : 124,
+		"uf" : "SE",
+		"hora" : "10"
+	},
+	{
+		"total" : 122,
+		"uf" : "PE",
+		"hora" : "07"
+	},
+	{
+		"total" : 122,
+		"uf" : "PA",
+		"hora" : "19"
+	},
+	{
+		"total" : 121,
+		"uf" : "AL",
+		"hora" : "11"
+	},
+	{
+		"total" : 120,
+		"uf" : "PE",
+		"hora" : "13"
+	},
+	{
+		"total" : 120,
+		"uf" : "PI",
+		"hora" : "12"
+	},
+	{
+		"total" : 119,
+		"uf" : "RO",
+		"hora" : "18"
+	},
+	{
+		"total" : 118,
+		"uf" : "AL",
+		"hora" : "16"
+	},
+	{
+		"total" : 116,
+		"uf" : "PI",
+		"hora" : "20"
+	},
+	{
+		"total" : 116,
+		"uf" : "RS",
+		"hora" : "23"
+	},
+	{
+		"total" : 113,
+		"uf" : "MA",
+		"hora" : "12"
+	},
+	{
+		"total" : 113,
+		"uf" : "PI",
+		"hora" : "22"
+	},
+	{
+		"total" : 112,
+		"uf" : "PR",
+		"hora" : "03"
+	},
+	{
+		"total" : 112,
+		"uf" : "PR",
+		"hora" : "02"
+	},
+	{
+		"total" : 111,
+		"uf" : "PI",
+		"hora" : "07"
+	},
+	{
+		"total" : 109,
+		"uf" : "AM",
+		"hora" : "11"
+	},
+	{
+		"total" : 109,
+		"uf" : "GO",
+		"hora" : "21"
+	},
+	{
+		"total" : 108,
+		"uf" : "SE",
+		"hora" : "16"
+	},
+	{
+		"total" : 107,
+		"uf" : "MS",
+		"hora" : "12"
+	},
+	{
+		"total" : 106,
+		"uf" : "RS",
+		"hora" : "21"
+	},
+	{
+		"total" : 106,
+		"uf" : "MS",
+		"hora" : "13"
+	},
+	{
+		"total" : 104,
+		"uf" : "PI",
+		"hora" : "13"
+	},
+	{
+		"total" : 102,
+		"uf" : "PB",
+		"hora" : "13"
+	},
+	{
+		"total" : 101,
+		"uf" : "MA",
+		"hora" : "19"
+	},
+	{
+		"total" : 101,
+		"uf" : "AL",
+		"hora" : "15"
+	},
+	{
+		"total" : 100,
+		"uf" : "MS",
+		"hora" : "19"
+	},
+	{
+		"total" : 100,
+		"uf" : "AP",
+		"hora" : "17"
+	},
+	{
+		"total" : 99,
+		"uf" : "GO",
+		"hora" : "20"
+	},
+	{
+		"total" : 99,
+		"uf" : "RS",
+		"hora" : "22"
+	},
+	{
+		"total" : 99,
+		"uf" : "DF",
+		"hora" : "16"
+	},
+	{
+		"total" : 97,
+		"uf" : "AM",
+		"hora" : "14"
+	},
+	{
+		"total" : 94,
+		"uf" : "CE",
+		"hora" : "12"
+	},
+	{
+		"total" : 94,
+		"uf" : "PA",
+		"hora" : "21"
+	},
+	{
+		"total" : 94,
+		"uf" : "GO",
+		"hora" : "22"
+	},
+	{
+		"total" : 94,
+		"uf" : "RO",
+		"hora" : "14"
+	},
+	{
+		"total" : 94,
+		"uf" : "PR",
+		"hora" : "04"
+	},
+	{
+		"total" : 93,
+		"uf" : "AM",
+		"hora" : "09"
+	},
+	{
+		"total" : 92,
+		"uf" : "AM",
+		"hora" : "18"
+	},
+	{
+		"total" : 92,
+		"uf" : "SE",
+		"hora" : "11"
+	},
+	{
+		"total" : 92,
+		"uf" : "SE",
+		"hora" : "17"
+	},
+	{
+		"total" : 91,
+		"uf" : "PA",
+		"hora" : "22"
+	},
+	{
+		"total" : 90,
+		"uf" : "BA",
+		"hora" : "20"
+	},
+	{
+		"total" : 89,
+		"uf" : "MT",
+		"hora" : "07"
+	},
+	{
+		"total" : 87,
+		"uf" : "MA",
+		"hora" : "13"
+	},
+	{
+		"total" : 83,
+		"uf" : "PA",
+		"hora" : "23"
+	},
+	{
+		"total" : 83,
+		"uf" : "RN",
+		"hora" : "09"
+	},
+	{
+		"total" : 81,
+		"uf" : "TO",
+		"hora" : "10"
+	},
+	{
+		"total" : 80,
+		"uf" : "MT",
+		"hora" : "21"
+	},
+	{
+		"total" : 79,
+		"uf" : "CE",
+		"hora" : "19"
+	},
+	{
+		"total" : 79,
+		"uf" : "MA",
+		"hora" : "20"
+	},
+	{
+		"total" : 78,
+		"uf" : "AP",
+		"hora" : "18"
+	},
+	{
+		"total" : 77,
+		"uf" : "PA",
+		"hora" : "06"
+	},
+	{
+		"total" : 77,
+		"uf" : "RN",
+		"hora" : "08"
+	},
+	{
+		"total" : 77,
+		"uf" : "GO",
+		"hora" : "23"
+	},
+	{
+		"total" : 77,
+		"uf" : "PE",
+		"hora" : "23"
+	},
+	{
+		"total" : 75,
+		"uf" : "SE",
+		"hora" : "15"
+	},
+	{
+		"total" : 74,
+		"uf" : "ES",
+		"hora" : "12"
+	},
+	{
+		"total" : 74,
+		"uf" : "MA",
+		"hora" : "21"
+	},
+	{
+		"total" : 74,
+		"uf" : "DF",
+		"hora" : "17"
+	},
+	{
+		"total" : 73,
+		"uf" : "TO",
+		"hora" : "16"
+	},
+	{
+		"total" : 73,
+		"uf" : "MS",
+		"hora" : "20"
+	},
+	{
+		"total" : 72,
+		"uf" : "MA",
+		"hora" : "22"
+	},
+	{
+		"total" : 71,
+		"uf" : "RS",
+		"hora" : "06"
+	},
+	{
+		"total" : 70,
+		"uf" : "ES",
+		"hora" : "13"
+	},
+	{
+		"total" : 70,
+		"uf" : "MS",
+		"hora" : "07"
+	},
+	{
+		"total" : 70,
+		"uf" : "CE",
+		"hora" : "22"
+	},
+	{
+		"total" : 69,
+		"uf" : "MT",
+		"hora" : "22"
+	},
+	{
+		"total" : 68,
+		"uf" : "BA",
+		"hora" : "21"
+	},
+	{
+		"total" : 68,
+		"uf" : "RN",
+		"hora" : "12"
+	},
+	{
+		"total" : 67,
+		"uf" : "CE",
+		"hora" : "20"
+	},
+	{
+		"total" : 67,
+		"uf" : "ES",
+		"hora" : "21"
+	},
+	{
+		"total" : 66,
+		"uf" : "PB",
+		"hora" : "19"
+	},
+	{
+		"total" : 66,
+		"uf" : "MA",
+		"hora" : "06"
+	},
+	{
+		"total" : 65,
+		"uf" : "RN",
+		"hora" : "07"
+	},
+	{
+		"total" : 65,
+		"uf" : "TO",
+		"hora" : "17"
+	},
+	{
+		"total" : 63,
+		"uf" : "AL",
+		"hora" : "12"
+	},
+	{
+		"total" : 63,
+		"uf" : "DF",
+		"hora" : "18"
+	},
+	{
+		"total" : 63,
+		"uf" : "GO",
+		"hora" : "06"
+	},
+	{
+		"total" : 62,
+		"uf" : "RO",
+		"hora" : "19"
+	},
+	{
+		"total" : 62,
+		"uf" : "MS",
+		"hora" : "21"
+	},
+	{
+		"total" : 62,
+		"uf" : "RN",
+		"hora" : "14"
+	},
+	{
+		"total" : 61,
+		"uf" : "RN",
+		"hora" : "18"
+	},
+	{
+		"total" : 60,
+		"uf" : "RR",
+		"hora" : "10"
+	},
+	{
+		"total" : 60,
+		"uf" : "CE",
+		"hora" : "21"
+	},
+	{
+		"total" : 59,
+		"uf" : "RR",
+		"hora" : "17"
+	},
+	{
+		"total" : 59,
+		"uf" : "PB",
+		"hora" : "22"
+	},
+	{
+		"total" : 57,
+		"uf" : "PE",
+		"hora" : "19"
+	},
+	{
+		"total" : 57,
+		"uf" : "ES",
+		"hora" : "07"
+	},
+	{
+		"total" : 57,
+		"uf" : "RS",
+		"hora" : "00"
+	},
+	{
+		"total" : 57,
+		"uf" : "AP",
+		"hora" : "11"
+	},
+	{
+		"total" : 56,
+		"uf" : "GO",
+		"hora" : "00"
+	},
+	{
+		"total" : 56,
+		"uf" : "BA",
+		"hora" : "22"
+	},
+	{
+		"total" : 56,
+		"uf" : "RR",
+		"hora" : "16"
+	},
+	{
+		"total" : 55,
+		"uf" : "AP",
+		"hora" : "16"
+	},
+	{
+		"total" : 54,
+		"uf" : "AL",
+		"hora" : "17"
+	},
+	{
+		"total" : 53,
+		"uf" : "PA",
+		"hora" : "00"
+	},
+	{
+		"total" : 52,
+		"uf" : "AM",
+		"hora" : "19"
+	},
+	{
+		"total" : 52,
+		"uf" : "DF",
+		"hora" : "19"
+	},
+	{
+		"total" : 52,
+		"uf" : "PE",
+		"hora" : "22"
+	},
+	{
+		"total" : 51,
+		"uf" : "BA",
+		"hora" : "05"
+	},
+	{
+		"total" : 51,
+		"uf" : "RO",
+		"hora" : "07"
+	},
+	{
+		"total" : 50,
+		"uf" : "RO",
+		"hora" : "08"
+	},
+	{
+		"total" : 50,
+		"uf" : "RO",
+		"hora" : "22"
+	},
+	{
+		"total" : 49,
+		"uf" : "RO",
+		"hora" : "12"
+	},
+	{
+		"total" : 47,
+		"uf" : "TO",
+		"hora" : "11"
+	},
+	{
+		"total" : 45,
+		"uf" : "MA",
+		"hora" : "01"
+	},
+	{
+		"total" : 45,
+		"uf" : "DF",
+		"hora" : "10"
+	},
+	{
+		"total" : 45,
+		"uf" : "PI",
+		"hora" : "23"
+	},
+	{
+		"total" : 45,
+		"uf" : "RN",
+		"hora" : "21"
+	},
+	{
+		"total" : 44,
+		"uf" : "TO",
+		"hora" : "15"
+	},
+	{
+		"total" : 44,
+		"uf" : "SE",
+		"hora" : "18"
+	},
+	{
+		"total" : 44,
+		"uf" : "DF",
+		"hora" : "20"
+	},
+	{
+		"total" : 44,
+		"uf" : "RR",
+		"hora" : "18"
+	},
+	{
+		"total" : 43,
+		"uf" : "BA",
+		"hora" : "23"
+	},
+	{
+		"total" : 43,
+		"uf" : "AL",
+		"hora" : "09"
+	},
+	{
+		"total" : 43,
+		"uf" : "TO",
+		"hora" : "14"
+	},
+	{
+		"total" : 42,
+		"uf" : "MT",
+		"hora" : "04"
+	},
+	{
+		"total" : 42,
+		"uf" : "PE",
+		"hora" : "21"
+	},
+	{
+		"total" : 42,
+		"uf" : "PE",
+		"hora" : "20"
+	},
+	{
+		"total" : 42,
+		"uf" : "ES",
+		"hora" : "20"
+	},
+	{
+		"total" : 42,
+		"uf" : "RR",
+		"hora" : "15"
+	},
+	{
+		"total" : 42,
+		"uf" : "TO",
+		"hora" : "09"
+	},
+	{
+		"total" : 42,
+		"uf" : "MA",
+		"hora" : "23"
+	},
+	{
+		"total" : 41,
+		"uf" : "MS",
+		"hora" : "22"
+	},
+	{
+		"total" : 41,
+		"uf" : "RS",
+		"hora" : "02"
+	},
+	{
+		"total" : 41,
+		"uf" : "PI",
+		"hora" : "05"
+	},
+	{
+		"total" : 41,
+		"uf" : "DF",
+		"hora" : "07"
+	},
+	{
+		"total" : 40,
+		"uf" : "RO",
+		"hora" : "23"
+	},
+	{
+		"total" : 40,
+		"uf" : "MS",
+		"hora" : "05"
+	},
+	{
+		"total" : 40,
+		"uf" : "RR",
+		"hora" : "11"
+	},
+	{
+		"total" : 39,
+		"uf" : "RN",
+		"hora" : "20"
+	},
+	{
+		"total" : 38,
+		"uf" : "DF",
+		"hora" : "06"
+	},
+	{
+		"total" : 38,
+		"uf" : "PB",
+		"hora" : "07"
+	},
+	{
+		"total" : 38,
+		"uf" : "DF",
+		"hora" : "08"
+	},
+	{
+		"total" : 38,
+		"uf" : "TO",
+		"hora" : "08"
+	},
+	{
+		"total" : 37,
+		"uf" : "PE",
+		"hora" : "06"
+	},
+	{
+		"total" : 37,
+		"uf" : "RN",
+		"hora" : "19"
+	},
+	{
+		"total" : 37,
+		"uf" : "AC",
+		"hora" : "10"
+	},
+	{
+		"total" : 36,
+		"uf" : "AP",
+		"hora" : "19"
+	},
+	{
+		"total" : 36,
+		"uf" : "PB",
+		"hora" : "21"
+	},
+	{
+		"total" : 36,
+		"uf" : "PB",
+		"hora" : "20"
+	},
+	{
+		"total" : 36,
+		"uf" : "DF",
+		"hora" : "11"
+	},
+	{
+		"total" : 36,
+		"uf" : "MA",
+		"hora" : "05"
+	},
+	{
+		"total" : 36,
+		"uf" : "SE",
+		"hora" : "08"
+	},
+	{
+		"total" : 36,
+		"uf" : "SE",
+		"hora" : "07"
+	},
+	{
+		"total" : 35,
+		"uf" : "AP",
+		"hora" : "15"
+	},
+	{
+		"total" : 35,
+		"uf" : "TO",
+		"hora" : "18"
+	},
+	{
+		"total" : 35,
+		"uf" : "CE",
+		"hora" : "06"
+	},
+	{
+		"total" : 34,
+		"uf" : "RS",
+		"hora" : "05"
+	},
+	{
+		"total" : 34,
+		"uf" : "RR",
+		"hora" : "12"
+	},
+	{
+		"total" : 34,
+		"uf" : "CE",
+		"hora" : "23"
+	},
+	{
+		"total" : 33,
+		"uf" : "AM",
+		"hora" : "13"
+	},
+	{
+		"total" : 33,
+		"uf" : "RO",
+		"hora" : "21"
+	},
+	{
+		"total" : 33,
+		"uf" : "SE",
+		"hora" : "22"
+	},
+	{
+		"total" : 32,
+		"uf" : "MS",
+		"hora" : "06"
+	},
+	{
+		"total" : 32,
+		"uf" : "MT",
+		"hora" : "05"
+	},
+	{
+		"total" : 32,
+		"uf" : "CE",
+		"hora" : "04"
+	},
+	{
+		"total" : 32,
+		"uf" : "AC",
+		"hora" : "09"
+	},
+	{
+		"total" : 32,
+		"uf" : "RS",
+		"hora" : "04"
+	},
+	{
+		"total" : 32,
+		"uf" : "AC",
+		"hora" : "08"
+	},
+	{
+		"total" : 32,
+		"uf" : "PE",
+		"hora" : "00"
+	},
+	{
+		"total" : 32,
+		"uf" : "AP",
+		"hora" : "10"
+	},
+	{
+		"total" : 31,
+		"uf" : "RN",
+		"hora" : "23"
+	},
+	{
+		"total" : 31,
+		"uf" : "SE",
+		"hora" : "14"
+	},
+	{
+		"total" : 31,
+		"uf" : "MA",
+		"hora" : "00"
+	},
+	{
+		"total" : 31,
+		"uf" : "ES",
+		"hora" : "22"
+	},
+	{
+		"total" : 31,
+		"uf" : "AM",
+		"hora" : "12"
+	},
+	{
+		"total" : 31,
+		"uf" : "AL",
+		"hora" : "14"
+	},
+	{
+		"total" : 31,
+		"uf" : "RN",
+		"hora" : "22"
+	},
+	{
+		"total" : 30,
+		"uf" : "AP",
+		"hora" : "12"
+	},
+	{
+		"total" : 30,
+		"uf" : "AC",
+		"hora" : "17"
+	},
+	{
+		"total" : 29,
+		"uf" : "RO",
+		"hora" : "20"
+	},
+	{
+		"total" : 29,
+		"uf" : "PE",
+		"hora" : "05"
+	},
+	{
+		"total" : 29,
+		"uf" : "TO",
+		"hora" : "13"
+	},
+	{
+		"total" : 29,
+		"uf" : "SE",
+		"hora" : "21"
+	},
+	{
+		"total" : 29,
+		"uf" : "AL",
+		"hora" : "21"
+	},
+	{
+		"total" : 28,
+		"uf" : "SE",
+		"hora" : "13"
+	},
+	{
+		"total" : 28,
+		"uf" : "MS",
+		"hora" : "01"
+	},
+	{
+		"total" : 28,
+		"uf" : "PI",
+		"hora" : "06"
+	},
+	{
+		"total" : 28,
+		"uf" : "RR",
+		"hora" : "09"
+	},
+	{
+		"total" : 28,
+		"uf" : "AL",
+		"hora" : "18"
+	},
+	{
+		"total" : 28,
+		"uf" : "AC",
+		"hora" : "16"
+	},
+	{
+		"total" : 27,
+		"uf" : "AC",
+		"hora" : "19"
+	},
+	{
+		"total" : 27,
+		"uf" : "PI",
+		"hora" : "03"
+	},
+	{
+		"total" : 27,
+		"uf" : "SE",
+		"hora" : "19"
+	},
+	{
+		"total" : 27,
+		"uf" : "AL",
+		"hora" : "13"
+	},
+	{
+		"total" : 27,
+		"uf" : "AC",
+		"hora" : "15"
+	},
+	{
+		"total" : 26,
+		"uf" : "RS",
+		"hora" : "01"
+	},
+	{
+		"total" : 26,
+		"uf" : "PA",
+		"hora" : "05"
+	},
+	{
+		"total" : 26,
+		"uf" : "PA",
+		"hora" : "04"
+	},
+	{
+		"total" : 25,
+		"uf" : "PA",
+		"hora" : "01"
+	},
+	{
+		"total" : 25,
+		"uf" : "PB",
+		"hora" : "06"
+	},
+	{
+		"total" : 24,
+		"uf" : "RO",
+		"hora" : "05"
+	},
+	{
+		"total" : 24,
+		"uf" : "PI",
+		"hora" : "04"
+	},
+	{
+		"total" : 24,
+		"uf" : "AP",
+		"hora" : "09"
+	},
+	{
+		"total" : 24,
+		"uf" : "MS",
+		"hora" : "23"
+	},
+	{
+		"total" : 23,
+		"uf" : "TO",
+		"hora" : "19"
+	},
+	{
+		"total" : 23,
+		"uf" : "RR",
+		"hora" : "14"
+	},
+	{
+		"total" : 23,
+		"uf" : "DF",
+		"hora" : "13"
+	},
+	{
+		"total" : 23,
+		"uf" : "PI",
+		"hora" : "00"
+	},
+	{
+		"total" : 22,
+		"uf" : "RO",
+		"hora" : "13"
+	},
+	{
+		"total" : 22,
+		"uf" : "AM",
+		"hora" : "07"
+	},
+	{
+		"total" : 22,
+		"uf" : "MT",
+		"hora" : "06"
+	},
+	{
+		"total" : 22,
+		"uf" : "TO",
+		"hora" : "07"
+	},
+	{
+		"total" : 22,
+		"uf" : "RS",
+		"hora" : "03"
+	},
+	{
+		"total" : 21,
+		"uf" : "GO",
+		"hora" : "05"
+	},
+	{
+		"total" : 21,
+		"uf" : "MS",
+		"hora" : "00"
+	},
+	{
+		"total" : 21,
+		"uf" : "RN",
+		"hora" : "13"
+	},
+	{
+		"total" : 20,
+		"uf" : "PE",
+		"hora" : "01"
+	},
+	{
+		"total" : 20,
+		"uf" : "GO",
+		"hora" : "01"
+	},
+	{
+		"total" : 19,
+		"uf" : "DF",
+		"hora" : "21"
+	},
+	{
+		"total" : 19,
+		"uf" : "AC",
+		"hora" : "07"
+	},
+	{
+		"total" : 19,
+		"uf" : "SE",
+		"hora" : "06"
+	},
+	{
+		"total" : 19,
+		"uf" : "AL",
+		"hora" : "08"
+	},
+	{
+		"total" : 19,
+		"uf" : "CE",
+		"hora" : "01"
+	},
+	{
+		"total" : 18,
+		"uf" : "ES",
+		"hora" : "06"
+	},
+	{
+		"total" : 18,
+		"uf" : "BA",
+		"hora" : "02"
+	},
+	{
+		"total" : 18,
+		"uf" : "BA",
+		"hora" : "04"
+	},
+	{
+		"total" : 18,
+		"uf" : "BA",
+		"hora" : "03"
+	},
+	{
+		"total" : 18,
+		"uf" : "AP",
+		"hora" : "20"
+	},
+	{
+		"total" : 17,
+		"uf" : "AP",
+		"hora" : "23"
+	},
+	{
+		"total" : 17,
+		"uf" : "DF",
+		"hora" : "05"
+	},
+	{
+		"total" : 17,
+		"uf" : "AM",
+		"hora" : "06"
+	},
+	{
+		"total" : 17,
+		"uf" : "AL",
+		"hora" : "19"
+	},
+	{
+		"total" : 17,
+		"uf" : "AC",
+		"hora" : "11"
+	},
+	{
+		"total" : 17,
+		"uf" : "TO",
+		"hora" : "12"
+	},
+	{
+		"total" : 16,
+		"uf" : "CE",
+		"hora" : "02"
+	},
+	{
+		"total" : 16,
+		"uf" : "CE",
+		"hora" : "05"
+	},
+	{
+		"total" : 16,
+		"uf" : "CE",
+		"hora" : "00"
+	},
+	{
+		"total" : 16,
+		"uf" : "MT",
+		"hora" : "02"
+	},
+	{
+		"total" : 16,
+		"uf" : "PI",
+		"hora" : "01"
+	},
+	{
+		"total" : 16,
+		"uf" : "MA",
+		"hora" : "04"
+	},
+	{
+		"total" : 16,
+		"uf" : "DF",
+		"hora" : "09"
+	},
+	{
+		"total" : 16,
+		"uf" : "BA",
+		"hora" : "00"
+	},
+	{
+		"total" : 16,
+		"uf" : "AC",
+		"hora" : "20"
+	},
+	{
+		"total" : 16,
+		"uf" : "RO",
+		"hora" : "06"
+	},
+	{
+		"total" : 16,
+		"uf" : "AP",
+		"hora" : "06"
+	},
+	{
+		"total" : 15,
+		"uf" : "AC",
+		"hora" : "14"
+	},
+	{
+		"total" : 15,
+		"uf" : "AM",
+		"hora" : "08"
+	},
+	{
+		"total" : 15,
+		"uf" : "AL",
+		"hora" : "07"
+	},
+	{
+		"total" : 14,
+		"uf" : "PE",
+		"hora" : "04"
+	},
+	{
+		"total" : 14,
+		"uf" : "PB",
+		"hora" : "23"
+	},
+	{
+		"total" : 14,
+		"uf" : "PI",
+		"hora" : "02"
+	},
+	{
+		"total" : 14,
+		"uf" : "MT",
+		"hora" : "23"
+	},
+	{
+		"total" : 14,
+		"uf" : "MT",
+		"hora" : "03"
+	},
+	{
+		"total" : 14,
+		"uf" : "AP",
+		"hora" : "22"
+	},
+	{
+		"total" : 14,
+		"uf" : "RO",
+		"hora" : "00"
+	},
+	{
+		"total" : 14,
+		"uf" : "GO",
+		"hora" : "04"
+	},
+	{
+		"total" : 13,
+		"uf" : "SE",
+		"hora" : "12"
+	},
+	{
+		"total" : 13,
+		"uf" : "RN",
+		"hora" : "04"
+	},
+	{
+		"total" : 13,
+		"uf" : "GO",
+		"hora" : "02"
+	},
+	{
+		"total" : 13,
+		"uf" : "SE",
+		"hora" : "05"
+	},
+	{
+		"total" : 13,
+		"uf" : "RR",
+		"hora" : "21"
+	},
+	{
+		"total" : 13,
+		"uf" : "SE",
+		"hora" : "04"
+	},
+	{
+		"total" : 13,
+		"uf" : "RR",
+		"hora" : "19"
+	},
+	{
+		"total" : 13,
+		"uf" : "RR",
+		"hora" : "08"
+	},
+	{
+		"total" : 12,
+		"uf" : "BA",
+		"hora" : "01"
+	},
+	{
+		"total" : 12,
+		"uf" : "AL",
+		"hora" : "23"
+	},
+	{
+		"total" : 12,
+		"uf" : "DF",
+		"hora" : "12"
+	},
+	{
+		"total" : 12,
+		"uf" : "RN",
+		"hora" : "05"
+	},
+	{
+		"total" : 12,
+		"uf" : "AP",
+		"hora" : "21"
+	},
+	{
+		"total" : 12,
+		"uf" : "AC",
+		"hora" : "18"
+	},
+	{
+		"total" : 12,
+		"uf" : "MA",
+		"hora" : "03"
+	},
+	{
+		"total" : 11,
+		"uf" : "PB",
+		"hora" : "01"
+	},
+	{
+		"total" : 11,
+		"uf" : "SE",
+		"hora" : "20"
+	},
+	{
+		"total" : 11,
+		"uf" : "MT",
+		"hora" : "00"
+	},
+	{
+		"total" : 11,
+		"uf" : "MS",
+		"hora" : "04"
+	},
+	{
+		"total" : 10,
+		"uf" : "AP",
+		"hora" : "14"
+	},
+	{
+		"total" : 10,
+		"uf" : "PE",
+		"hora" : "03"
+	},
+	{
+		"total" : 10,
+		"uf" : "AC",
+		"hora" : "06"
+	},
+	{
+		"total" : 10,
+		"uf" : "ES",
+		"hora" : "01"
+	},
+	{
+		"total" : 10,
+		"uf" : "PB",
+		"hora" : "05"
+	},
+	{
+		"total" : 10,
+		"uf" : "AL",
+		"hora" : "20"
+	},
+	{
+		"total" : 10,
+		"uf" : "PA",
+		"hora" : "02"
+	},
+	{
+		"total" : 9,
+		"uf" : "RR",
+		"hora" : "05"
+	},
+	{
+		"total" : 9,
+		"uf" : "RR",
+		"hora" : "23"
+	},
+	{
+		"total" : 9,
+		"uf" : "AM",
+		"hora" : "20"
+	},
+	{
+		"total" : 9,
+		"uf" : "ES",
+		"hora" : "23"
+	},
+	{
+		"total" : 9,
+		"uf" : "RR",
+		"hora" : "13"
+	},
+	{
+		"total" : 8,
+		"uf" : "RO",
+		"hora" : "03"
+	},
+	{
+		"total" : 8,
+		"uf" : "PE",
+		"hora" : "02"
+	},
+	{
+		"total" : 8,
+		"uf" : "DF",
+		"hora" : "03"
+	},
+	{
+		"total" : 8,
+		"uf" : "PB",
+		"hora" : "00"
+	},
+	{
+		"total" : 8,
+		"uf" : "TO",
+		"hora" : "20"
+	},
+	{
+		"total" : 8,
+		"uf" : "TO",
+		"hora" : "22"
+	},
+	{
+		"total" : 8,
+		"uf" : "RN",
+		"hora" : "06"
+	},
+	{
+		"total" : 8,
+		"uf" : "RO",
+		"hora" : "02"
+	},
+	{
+		"total" : 7,
+		"uf" : "DF",
+		"hora" : "14"
+	},
+	{
+		"total" : 7,
+		"uf" : "AP",
+		"hora" : "07"
+	},
+	{
+		"total" : 7,
+		"uf" : "AL",
+		"hora" : "22"
+	},
+	{
+		"total" : 7,
+		"uf" : "ES",
+		"hora" : "00"
+	},
+	{
+		"total" : 6,
+		"uf" : "AM",
+		"hora" : "00"
+	},
+	{
+		"total" : 6,
+		"uf" : "AP",
+		"hora" : "13"
+	},
+	{
+		"total" : 6,
+		"uf" : "RN",
+		"hora" : "00"
+	},
+	{
+		"total" : 6,
+		"uf" : "MS",
+		"hora" : "03"
+	},
+	{
+		"total" : 6,
+		"uf" : "MA",
+		"hora" : "02"
+	},
+	{
+		"total" : 5,
+		"uf" : "RR",
+		"hora" : "20"
+	},
+	{
+		"total" : 5,
+		"uf" : "TO",
+		"hora" : "06"
+	},
+	{
+		"total" : 5,
+		"uf" : "DF",
+		"hora" : "23"
+	},
+	{
+		"total" : 5,
+		"uf" : "RO",
+		"hora" : "01"
+	},
+	{
+		"total" : 5,
+		"uf" : "AL",
+		"hora" : "06"
+	},
+	{
+		"total" : 5,
+		"uf" : "CE",
+		"hora" : "03"
+	},
+	{
+		"total" : 5,
+		"uf" : "RR",
+		"hora" : "07"
+	},
+	{
+		"total" : 5,
+		"uf" : "MT",
+		"hora" : "01"
+	},
+	{
+		"total" : 5,
+		"uf" : "AC",
+		"hora" : "22"
+	},
+	{
+		"total" : 5,
+		"uf" : "MS",
+		"hora" : "02"
+	},
+	{
+		"total" : 5,
+		"uf" : "TO",
+		"hora" : "05"
+	},
+	{
+		"total" : 4,
+		"uf" : "AC",
+		"hora" : "21"
+	},
+	{
+		"total" : 4,
+		"uf" : "ES",
+		"hora" : "05"
+	},
+	{
+		"total" : 4,
+		"uf" : "AP",
+		"hora" : "00"
+	},
+	{
+		"total" : 4,
+		"uf" : "RN",
+		"hora" : "02"
+	},
+	{
+		"total" : 4,
+		"uf" : "GO",
+		"hora" : "03"
+	},
+	{
+		"total" : 4,
+		"uf" : "SE",
+		"hora" : "23"
+	},
+	{
+		"total" : 4,
+		"uf" : "AM",
+		"hora" : "03"
+	},
+	{
+		"total" : 4,
+		"uf" : "RO",
+		"hora" : "04"
+	},
+	{
+		"total" : 4,
+		"uf" : "DF",
+		"hora" : "22"
+	},
+	{
+		"total" : 4,
+		"uf" : "PB",
+		"hora" : "03"
+	},
+	{
+		"total" : 4,
+		"uf" : "PB",
+		"hora" : "04"
+	},
+	{
+		"total" : 4,
+		"uf" : "TO",
+		"hora" : "23"
+	},
+	{
+		"total" : 4,
+		"uf" : "RR",
+		"hora" : "06"
+	},
+	{
+		"total" : 3,
+		"uf" : "SE",
+		"hora" : "00"
+	},
+	{
+		"total" : 3,
+		"uf" : "ES",
+		"hora" : "03"
+	},
+	{
+		"total" : 3,
+		"uf" : "PA",
+		"hora" : "03"
+	},
+	{
+		"total" : 3,
+		"uf" : "TO",
+		"hora" : "04"
+	},
+	{
+		"total" : 3,
+		"uf" : "TO",
+		"hora" : "21"
+	},
+	{
+		"total" : 3,
+		"uf" : "AM",
+		"hora" : "21"
+	},
+	{
+		"total" : 3,
+		"uf" : "ES",
+		"hora" : "02"
+	},
+	{
+		"total" : 2,
+		"uf" : "AM",
+		"hora" : "22"
+	},
+	{
+		"total" : 2,
+		"uf" : "PB",
+		"hora" : "02"
+	},
+	{
+		"total" : 2,
+		"uf" : "RR",
+		"hora" : "22"
+	},
+	{
+		"total" : 2,
+		"uf" : "AC",
+		"hora" : "13"
+	},
+	{
+		"total" : 2,
+		"uf" : "AL",
+		"hora" : "00"
+	},
+	{
+		"total" : 2,
+		"uf" : "RN",
+		"hora" : "03"
+	},
+	{
+		"total" : 2,
+		"uf" : "AP",
+		"hora" : "05"
+	},
+	{
+		"total" : 2,
+		"uf" : "DF",
+		"hora" : "00"
+	},
+	{
+		"total" : 2,
+		"uf" : "TO",
+		"hora" : "00"
+	},
+	{
+		"total" : 1,
+		"uf" : "RR",
+		"hora" : "04"
+	},
+	{
+		"total" : 1,
+		"uf" : "ES",
+		"hora" : "04"
+	},
+	{
+		"total" : 1,
+		"uf" : "AC",
+		"hora" : "23"
+	},
+	{
+		"total" : 1,
+		"uf" : "SE",
+		"hora" : "01"
+	},
+	{
+		"total" : 1,
+		"uf" : "AC",
+		"hora" : "05"
+	},
+	{
+		"total" : 1,
+		"uf" : "AL",
+		"hora" : "05"
+	},
+	{
+		"total" : 1,
+		"uf" : "AM",
+		"hora" : "23"
+	},
+	{
+		"total" : 1,
+		"uf" : "TO",
+		"hora" : "03"
+	},
+	{
+		"total" : 1,
+		"uf" : "RR",
+		"hora" : "00"
+	},
+	{
+		"total" : 1,
+		"uf" : "RR",
+		"hora" : "01"
+	},
+	{
+		"total" : 1,
+		"uf" : "RR",
+		"hora" : "02"
+	},
+	{
+		"total" : 1,
+		"uf" : "AC",
+		"hora" : "12"
 	}
 ]}

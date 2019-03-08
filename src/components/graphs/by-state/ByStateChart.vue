@@ -20,34 +20,48 @@ export default {
   watch: {
     "$store.state.hoursFilter"(newValue) {
       this.hoursFilter = newValue;
+      if (!this.firstTime) {
+        this.renderWithFilteredData();
+        this.firstTime = false;
+      }
     }
   },
   created() {
     this.service = OcurrenciesByStateService.build();
   },
   mounted() {
-    this.render();
+    this.renderForTheFirstTime(true);
   },
   methods: {
-    render() {
+    renderWithFilteredData() {
+      this.service
+        .fetchDataGrouppedByStateAndHour(this.hoursFilter) //
+        .then(statesGrouppedByState => {
+          this.fillGraph(statesGrouppedByState);
+        });
+    },
+    renderForTheFirstTime() {
       this.service
         .fetchDataGrouppedByState() //
         .then(statesGrouppedByState => {
-          const chartConfigOpations = new AmchartsBar(
-            "uf",
-            "total",
-            statesGrouppedByState,
-            this.divName,
-            "Estado"
-          );
-
-          this.service.renderBarChart(chartConfigOpations);
+          this.fillGraph(statesGrouppedByState);
         });
+    },
+    fillGraph(data) {
+      const chartConfigOpations = new AmchartsBar(
+        "uf",
+        "total",
+        data,
+        this.divName,
+        "Estado"
+      );
+      this.service.renderBarChart(chartConfigOpations);
     }
   },
   data: () => ({
     hoursFilter: {},
-    divName: "bar-chart-groupped-by-state"
+    divName: "bar-chart-groupped-by-state",
+    firstTime: false
   })
 };
 </script>

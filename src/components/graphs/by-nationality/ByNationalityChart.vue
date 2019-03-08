@@ -27,7 +27,6 @@ export default {
     this.service
       .fetchDataGrouppedByNationality() //
       .then(data => {
-        console.log(data)
         const chartConfigOpations = new AmchartsBar(
           "veiculo_estrangeiro",
           "total",

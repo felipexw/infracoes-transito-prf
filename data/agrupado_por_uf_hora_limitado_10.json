@@ -1,0 +1,53 @@
+﻿{
+"content": [
+	{
+		"total" : 8000,
+		"uf" : "RJ",
+		"hora" : "11"
+	},
+	{
+		"total" : 7240,
+		"uf" : "RJ",
+		"hora" : "12"
+	},
+	{
+		"total" : 7119,
+		"uf" : "RJ",
+		"hora" : "10"
+	},
+	{
+		"total" : 7052,
+		"uf" : "RJ",
+		"hora" : "14"
+	},
+	{
+		"total" : 6947,
+		"uf" : "RJ",
+		"hora" : "13"
+	},
+	{
+		"total" : 6917,
+		"uf" : "RJ",
+		"hora" : "15"
+	},
+	{
+		"total" : 6330,
+		"uf" : "SP",
+		"hora" : "16"
+	},
+	{
+		"total" : 6321,
+		"uf" : "SP",
+		"hora" : "15"
+	},
+	{
+		"total" : 5997,
+		"uf" : "SP",
+		"hora" : "10"
+	},
+	{
+		"total" : 5865,
+		"uf" : "RJ",
+		"hora" : "16"
+	}
+]}
