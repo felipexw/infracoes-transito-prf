@@ -21,8 +21,7 @@ export default {
     "$store.state.hoursFilter"(newValue) {
       this.hoursFilter = newValue;
       if (!this.firstTime) {
-        this.renderWithFilteredData();
-        this.firstTime = false;
+        this.render();
       }
     }
   },
@@ -30,19 +29,12 @@ export default {
     this.service = OcurrenciesByStateService.build();
   },
   mounted() {
-    this.renderForTheFirstTime(true);
+    this.render();
   },
   methods: {
-    renderWithFilteredData() {
+    render() {
       this.service
         .fetchDataGrouppedByStateAndHour(this.hoursFilter) //
-        .then(statesGrouppedByState => {
-          this.fillGraph(statesGrouppedByState);
-        });
-    },
-    renderForTheFirstTime() {
-      this.service
-        .fetchDataGrouppedByState() //
         .then(statesGrouppedByState => {
           this.fillGraph(statesGrouppedByState);
         });
@@ -59,7 +51,7 @@ export default {
     }
   },
   data: () => ({
-    hoursFilter: {},
+    hoursFilter: { initialValue: 9, finalValue: 17 },
     divName: "bar-chart-groupped-by-state",
     firstTime: false
   })

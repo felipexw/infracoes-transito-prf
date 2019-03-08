@@ -1,40 +1,47 @@
 import Service from "../shared/service";
-const groupedByState = require("../../../../data/agrupado_por_uf");
 
 export default class OcurrenciesByStateService extends Service {
-  private groupedByState: any;
   private grouppedByStatedAndHour: any;
 
   constructor() {
     super();
   }
 
-  fetchDataGrouppedByState() {
-    if (!this.groupedByState) {
-      this.groupedByState = require("../../../../data/agrupado_por_uf");
-    }
-
-    return new Promise(resolve => {
-      resolve(this.groupedByState.content);
-    });
-  }
-
   filterDataByHour(data: any, filter: any) {
-    const regex = new RegExp("^[0-9]*$");
-    const initialValue = filter.initialValue.replace(/\D/g, "");
-    const finalValue = filter.finalValue.replace(/\D/g, "");
+    const regex = /\D/g;
+    const initialValue =
+      typeof filter.initialValue === "string"
+        ? filter.initialValue.replace(regex, "")
+        : filter.initialValue;
+    const finalValue =
+      typeof filter.finalValue === "string"
+        ? filter.finalValue.replace(regex, "")
+        : filter.finalValue;
 
     const obj: any = {};
+
+    const hours: any = {};
+    //TODO: separar em outra função.
     data.content.forEach((item: any) => {
-      if (
-        parseInt(item.hora) >= parseInt(initialValue) ||
-        parseInt(item.hora) <= parseInt(finalValue)
-      ) {
-        let key: string = item.uf;
-        let value: string = item.total;
-        obj[key] = obj[key] ? obj[key].total + value : { total: value, uf: key };
+      const key = item.uf;
+      if (!obj[key]) {
+        obj[key] = {
+          uf: item.uf,
+          total: 0
+        };
+      } else {
+        if (
+          parseInt(item.hora) >= parseInt(initialValue) &&
+          parseInt(item.hora) <= parseInt(finalValue)
+        ) {
+          let key = item.uf.trim();
+          let value = item.total;
+          obj[key].total += value;
+          hours[item.hora] = 1;
+        }
       }
     });
+    console.log(hours);
 
     const keys = Object.keys(obj);
     const newOne: any = [];
@@ -42,6 +49,7 @@ export default class OcurrenciesByStateService extends Service {
       const value = obj[key];
       newOne.push(value);
     });
+
     return { content: newOne };
   }
 
@@ -51,9 +59,9 @@ export default class OcurrenciesByStateService extends Service {
       this.grouppedByStatedAndHour = data;
     }
 
-    this.grouppedByStatedAndHour = this.filterDataByHour(this.grouppedByStatedAndHour, filter);
+    const filteredData = this.filterDataByHour(this.grouppedByStatedAndHour, filter);
     return new Promise(resolve => {
-      resolve(this.grouppedByStatedAndHour.content);
+      resolve(filteredData.content);
     });
   }
 }

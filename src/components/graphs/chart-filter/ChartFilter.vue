@@ -47,8 +47,7 @@ export default {
           this.hours = data;
           const lastIndex = data.length - 1;
           this.filterValue = [0, lastIndex];
-          const newValue = this.getHoursFilterValue();
-          this.$store.dispatch(ACTIONS.ACTION_HOURS_CHANGED, newValue);
+          const newValue = this.getHoursFilterValue();          
         });
     }
   }
