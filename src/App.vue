@@ -35,7 +35,7 @@ export default {
   components: {
     ByStateChart,
     ByNationalityChart,
-    ChartFilter    
+    ChartFilter
   }
 };
 </script>
