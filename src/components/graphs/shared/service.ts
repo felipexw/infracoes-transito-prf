@@ -19,7 +19,7 @@ export default class Service {
     // Create axes
 
     let categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
-    categoryAxis.dataFields.category = "uf";
+    categoryAxis.dataFields.category = configOptions.valueX;
     categoryAxis.renderer.grid.template.location = 0;
     categoryAxis.renderer.minGridDistance = 30;
 

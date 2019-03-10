@@ -16,6 +16,8 @@
               v-flex(xs12 sm12 md12)
                 ByStateChart
               v-flex(xs12 sm12 md12)
+                ByVehicleFabricatorChart
+              v-flex(xs12 sm12 md12)
                 ByNationalityChart
               v-flex(xs12 sm12 md12)
                 ChartFilter
@@ -29,12 +31,14 @@
 <script>
 import ByStateChart from "./components/graphs/by-state/ByStateChart.vue";
 import ByNationalityChart from "./components/graphs/by-nationality/ByNationalityChart.vue";
+import ByVehicleFabricatorChart from "./components/graphs/by-vehicle-fabricator/ByVehicleFabricatorChart.vue";
 import ChartFilter from "./components/graphs/chart-filter/ChartFilter.vue";
 
 export default {
   components: {
     ByStateChart,
     ByNationalityChart,
+    ByVehicleFabricatorChart,
     ChartFilter
   }
 };

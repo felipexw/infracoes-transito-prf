@@ -1,53 +1,503 @@
 ﻿{
 "content": [
 	{
-		"total" : 26093,
-		"marca" : "",
-		"hora" : "10"
-	},
-	{
-		"total" : 26012,
-		"marca" : "",
-		"hora" : "15"
-	},
-	{
-		"total" : 23164,
-		"marca" : "",
-		"hora" : "11"
-	},
-	{
-		"total" : 22032,
-		"marca" : "",
-		"hora" : "14"
-	},
-	{
-		"total" : 21243,
-		"marca" : "",
-		"hora" : "16"
-	},
-	{
-		"total" : 20332,
-		"marca" : "",
-		"hora" : "09"
-	},
-	{
-		"total" : 16822,
-		"marca" : "",
-		"hora" : "13"
-	},
-	{
-		"total" : 16428,
-		"marca" : "",
-		"hora" : "12"
-	},
-	{
-		"total" : 13236,
-		"marca" : "",
+		"total" : 1977,
+		"marca" : "HONDA",
 		"hora" : "17"
 	},
 	{
-		"total" : 12566,
-		"marca" : "",
+		"total" : 1963,
+		"marca" : "VW",
+		"hora" : "17"
+	},
+	{
+		"total" : 1803,
+		"marca" : "VW",
+		"hora" : "10"
+	},
+	{
+		"total" : 1741,
+		"marca" : "VW",
+		"hora" : "16"
+	},
+	{
+		"total" : 1739,
+		"marca" : "VW",
+		"hora" : "11"
+	},
+	{
+		"total" : 1734,
+		"marca" : "OUTRA",
+		"hora" : "17"
+	},
+	{
+		"total" : 1694,
+		"marca" : "HONDA",
+		"hora" : "10"
+	},
+	{
+		"total" : 1683,
+		"marca" : "OUTRA",
+		"hora" : "10"
+	},
+	{
+		"total" : 1677,
+		"marca" : "OUTRA",
+		"hora" : "16"
+	},
+	{
+		"total" : 1660,
+		"marca" : "HONDA",
+		"hora" : "16"
+	},
+	{
+		"total" : 1610,
+		"marca" : "FIAT",
+		"hora" : "17"
+	},
+	{
+		"total" : 1517,
+		"marca" : "HONDA",
+		"hora" : "11"
+	},
+	{
+		"total" : 1462,
+		"marca" : "OUTRA",
+		"hora" : "11"
+	},
+	{
+		"total" : 1456,
+		"marca" : "VW",
+		"hora" : "15"
+	},
+	{
+		"total" : 1444,
+		"marca" : "VW",
+		"hora" : "09"
+	},
+	{
+		"total" : 1420,
+		"marca" : "HONDA",
+		"hora" : "15"
+	},
+	{
+		"total" : 1391,
+		"marca" : "VW",
+		"hora" : "18"
+	},
+	{
+		"total" : 1349,
+		"marca" : "FIAT",
+		"hora" : "16"
+	},
+	{
+		"total" : 1341,
+		"marca" : "HONDA",
+		"hora" : "09"
+	},
+	{
+		"total" : 1331,
+		"marca" : "FIAT",
+		"hora" : "10"
+	},
+	{
+		"total" : 1328,
+		"marca" : "OUTRA",
+		"hora" : "09"
+	},
+	{
+		"total" : 1244,
+		"marca" : "FIAT",
+		"hora" : "11"
+	},
+	{
+		"total" : 1237,
+		"marca" : "OUTRA",
+		"hora" : "15"
+	},
+	{
+		"total" : 1236,
+		"marca" : "OUTRA",
+		"hora" : "18"
+	},
+	{
+		"total" : 1186,
+		"marca" : "GM",
+		"hora" : "17"
+	},
+	{
+		"total" : 1149,
+		"marca" : "HONDA",
+		"hora" : "18"
+	},
+	{
+		"total" : 1137,
+		"marca" : "FIAT",
+		"hora" : "09"
+	},
+	{
+		"total" : 1126,
+		"marca" : "FIAT",
+		"hora" : "15"
+	},
+	{
+		"total" : 1093,
+		"marca" : "FIAT",
+		"hora" : "18"
+	},
+	{
+		"total" : 1018,
+		"marca" : "VW",
+		"hora" : "14"
+	},
+	{
+		"total" : 997,
+		"marca" : "VW",
 		"hora" : "08"
+	},
+	{
+		"total" : 916,
+		"marca" : "GM",
+		"hora" : "16"
+	},
+	{
+		"total" : 895,
+		"marca" : "GM",
+		"hora" : "11"
+	},
+	{
+		"total" : 878,
+		"marca" : "OUTRA",
+		"hora" : "14"
+	},
+	{
+		"total" : 875,
+		"marca" : "GM",
+		"hora" : "10"
+	},
+	{
+		"total" : 847,
+		"marca" : "FORD",
+		"hora" : "10"
+	},
+	{
+		"total" : 839,
+		"marca" : "FORD",
+		"hora" : "17"
+	},
+	{
+		"total" : 832,
+		"marca" : "HONDA",
+		"hora" : "08"
+	},
+	{
+		"total" : 810,
+		"marca" : "OUTRA",
+		"hora" : "08"
+	},
+	{
+		"total" : 805,
+		"marca" : "GM",
+		"hora" : "18"
+	},
+	{
+		"total" : 802,
+		"marca" : "FORD",
+		"hora" : "11"
+	},
+	{
+		"total" : 785,
+		"marca" : "VW",
+		"hora" : "19"
+	},
+	{
+		"total" : 780,
+		"marca" : "HONDA",
+		"hora" : "14"
+	},
+	{
+		"total" : 780,
+		"marca" : "GM",
+		"hora" : "09"
+	},
+	{
+		"total" : 771,
+		"marca" : "GM",
+		"hora" : "15"
+	},
+	{
+		"total" : 769,
+		"marca" : "FORD",
+		"hora" : "16"
+	},
+	{
+		"total" : 752,
+		"marca" : "FIAT",
+		"hora" : "14"
+	},
+	{
+		"total" : 721,
+		"marca" : "FIAT",
+		"hora" : "08"
+	},
+	{
+		"total" : 711,
+		"marca" : "HONDA",
+		"hora" : "19"
+	},
+	{
+		"total" : 700,
+		"marca" : "OUTRA",
+		"hora" : "12"
+	},
+	{
+		"total" : 674,
+		"marca" : "FORD",
+		"hora" : "09"
+	},
+	{
+		"total" : 673,
+		"marca" : "HONDA",
+		"hora" : "07"
+	},
+	{
+		"total" : 671,
+		"marca" : "VW",
+		"hora" : "12"
+	},
+	{
+		"total" : 650,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "10"
+	},
+	{
+		"total" : 650,
+		"marca" : "FORD",
+		"hora" : "15"
+	},
+	{
+		"total" : 648,
+		"marca" : "HONDA",
+		"hora" : "12"
+	},
+	{
+		"total" : 638,
+		"marca" : "OUTRA",
+		"hora" : "19"
+	},
+	{
+		"total" : 627,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "11"
+	},
+	{
+		"total" : 617,
+		"marca" : "HONDA",
+		"hora" : "13"
+	},
+	{
+		"total" : 607,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "17"
+	},
+	{
+		"total" : 598,
+		"marca" : "OUTRA",
+		"hora" : "13"
+	},
+	{
+		"total" : 596,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "16"
+	},
+	{
+		"total" : 584,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "09"
+	},
+	{
+		"total" : 581,
+		"marca" : "FORD",
+		"hora" : "18"
+	},
+	{
+		"total" : 576,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "15"
+	},
+	{
+		"total" : 561,
+		"marca" : "FIAT",
+		"hora" : "19"
+	},
+	{
+		"total" : 525,
+		"marca" : "VW",
+		"hora" : "13"
+	},
+	{
+		"total" : 524,
+		"marca" : "FIAT",
+		"hora" : "12"
+	},
+	{
+		"total" : 516,
+		"marca" : "GM",
+		"hora" : "14"
+	},
+	{
+		"total" : 514,
+		"marca" : "OUTRA",
+		"hora" : "07"
+	},
+	{
+		"total" : 501,
+		"marca" : "VW",
+		"hora" : "07"
+	},
+	{
+		"total" : 485,
+		"marca" : "GM",
+		"hora" : "08"
+	},
+	{
+		"total" : 467,
+		"marca" : "FIAT",
+		"hora" : "07"
+	},
+	{
+		"total" : 456,
+		"marca" : "VW",
+		"hora" : "20"
+	},
+	{
+		"total" : 430,
+		"marca" : "FORD",
+		"hora" : "08"
+	},
+	{
+		"total" : 425,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "18"
+	},
+	{
+		"total" : 425,
+		"marca" : "FORD",
+		"hora" : "14"
+	},
+	{
+		"total" : 419,
+		"marca" : "HONDA",
+		"hora" : "20"
+	},
+	{
+		"total" : 402,
+		"marca" : "VOLVO",
+		"hora" : "10"
+	},
+	{
+		"total" : 397,
+		"marca" : "FIAT",
+		"hora" : "13"
+	},
+	{
+		"total" : 396,
+		"marca" : "OUTRA",
+		"hora" : "20"
+	},
+	{
+		"total" : 390,
+		"marca" : "VW",
+		"hora" : "21"
+	},
+	{
+		"total" : 385,
+		"marca" : "SCANIA",
+		"hora" : "10"
+	},
+	{
+		"total" : 384,
+		"marca" : "GM",
+		"hora" : "19"
+	},
+	{
+		"total" : 381,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "14"
+	},
+	{
+		"total" : 367,
+		"marca" : "SCANIA",
+		"hora" : "11"
+	},
+	{
+		"total" : 364,
+		"marca" : "FORD",
+		"hora" : "19"
+	},
+	{
+		"total" : 359,
+		"marca" : "GM",
+		"hora" : "12"
+	},
+	{
+		"total" : 358,
+		"marca" : "HONDA",
+		"hora" : "21"
+	},
+	{
+		"total" : 357,
+		"marca" : "MERCEDES BENZ",
+		"hora" : "08"
+	},
+	{
+		"total" : 357,
+		"marca" : "SCANIA",
+		"hora" : "16"
+	},
+	{
+		"total" : 353,
+		"marca" : "VOLVO",
+		"hora" : "16"
+	},
+	{
+		"total" : 353,
+		"marca" : "VOLVO",
+		"hora" : "11"
+	},
+	{
+		"total" : 348,
+		"marca" : "TOYOTA",
+		"hora" : "17"
+	},
+	{
+		"total" : 345,
+		"marca" : "HONDA",
+		"hora" : "22"
+	},
+	{
+		"total" : 344,
+		"marca" : "SCANIA",
+		"hora" : "17"
+	},
+	{
+		"total" : 342,
+		"marca" : "VOLVO",
+		"hora" : "17"
+	},
+	{
+		"total" : 342,
+		"marca" : "SCANIA",
+		"hora" : "09"
+	},
+	{
+		"total" : 330,
+		"marca" : "VW",
+		"hora" : "22"
+	},
+	{
+		"total" : 326,
+		"marca" : "SCANIA",
+		"hora" : "15"
 	}
 ]}
