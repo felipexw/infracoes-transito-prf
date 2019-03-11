@@ -2,11 +2,6 @@ import Service from "../shared/service";
 
 export default class OcurrenciesByStateService extends Service {
   private grouppedByStatedAndHour: any;
-
-  constructor() {
-    super();
-  }
-
   filterDataByHour(data: any, filter: any) {
     const regex = /\D/g;
     const initialValue =

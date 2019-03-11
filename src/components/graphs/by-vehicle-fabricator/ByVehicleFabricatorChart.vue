@@ -25,10 +25,9 @@ export default {
     }
   },
   created() {
-    this.service = OcurrenciesByVehicleFabricatorService.build();
+    this.service = OcurrenciesByVehicleFabricatorService.build("marca");
   },
   mounted() {
-    debugger
     this.render();
   },
   methods: {
@@ -36,7 +35,6 @@ export default {
       this.service
         .fetchDataGrouppedByStateAndHour(this.hoursFilter) //
         .then(statesGrouppedByState => {
-          debugger;
           this.fillGraph(statesGrouppedByState);
         });
     },

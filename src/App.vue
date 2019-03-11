@@ -13,11 +13,11 @@
         v-content 
           v-container(grid-list-md text-xs-center)
             v-layout(row wrap)
-              v-flex(xs12 sm12 md12)
+              v-flex(xs12 sm12 md12 "v-if"="false")
                 ByStateChart
               v-flex(xs12 sm12 md12)
                 ByVehicleFabricatorChart
-              v-flex(xs12 sm12 md12)
+              v-flex(xs12 sm12 md12 "v-if"="false")
                 ByNationalityChart
               v-flex(xs12 sm12 md12)
                 ChartFilter
