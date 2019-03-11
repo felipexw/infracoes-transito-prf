@@ -17,7 +17,7 @@
                 ByStateChart
               v-flex(xs12 sm12 md12)
                 ByVehicleFabricatorChart
-              v-flex(xs12 sm12 md12 "v-if"="false")
+              v-flex(xs12 sm12 md12)
                 ByNationalityChart
               v-flex(xs12 sm12 md12)
                 ChartFilter

@@ -49,5 +49,195 @@
 		"total" : 18012,
 		"veiculo_estrangeiro" : "N",
 		"hora" : "08"
+	},
+	{
+		"total" : 17036,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "18"
+	},
+	{
+		"total" : 12159,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "07"
+	},
+	{
+		"total" : 9575,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "19"
+	},
+	{
+		"total" : 6661,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "06"
+	},
+	{
+		"total" : 6142,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "20"
+	},
+	{
+		"total" : 5478,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "21"
+	},
+	{
+		"total" : 5021,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "22"
+	},
+	{
+		"total" : 4649,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "23"
+	},
+	{
+		"total" : 3947,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "00"
+	},
+	{
+		"total" : 3563,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "05"
+	},
+	{
+		"total" : 3317,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "01"
+	},
+	{
+		"total" : 2805,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "04"
+	},
+	{
+		"total" : 2608,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "02"
+	},
+	{
+		"total" : 2377,
+		"veiculo_estrangeiro" : "N",
+		"hora" : "03"
+	},
+	{
+		"total" : 191,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "11"
+	},
+	{
+		"total" : 172,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "12"
+	},
+	{
+		"total" : 156,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "16"
+	},
+	{
+		"total" : 150,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "10"
+	},
+	{
+		"total" : 144,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "09"
+	},
+	{
+		"total" : 124,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "15"
+	},
+	{
+		"total" : 117,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "17"
+	},
+	{
+		"total" : 117,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "14"
+	},
+	{
+		"total" : 109,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "08"
+	},
+	{
+		"total" : 108,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "13"
+	},
+	{
+		"total" : 89,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "18"
+	},
+	{
+		"total" : 66,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "07"
+	},
+	{
+		"total" : 62,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "19"
+	},
+	{
+		"total" : 55,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "20"
+	},
+	{
+		"total" : 45,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "21"
+	},
+	{
+		"total" : 29,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "23"
+	},
+	{
+		"total" : 29,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "01"
+	},
+	{
+		"total" : 21,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "22"
+	},
+	{
+		"total" : 19,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "03"
+	},
+	{
+		"total" : 18,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "06"
+	},
+	{
+		"total" : 16,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "02"
+	},
+	{
+		"total" : 13,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "00"
+	},
+	{
+		"total" : 12,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "04"
+	},
+	{
+		"total" : 11,
+		"veiculo_estrangeiro" : "S",
+		"hora" : "05"
 	}
 ]}

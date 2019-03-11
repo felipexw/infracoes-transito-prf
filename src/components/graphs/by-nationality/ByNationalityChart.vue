@@ -18,15 +18,22 @@ export default {
   watch: {
     "$store.state.hoursFilter"(newValue) {
       this.hoursFilter = newValue;
+      this.render();
     }
   },
   created() {
-    this.service = OcurrenciesByCarNationalityService.build();
+    this.service = OcurrenciesByCarNationalityService.build(
+      "veiculo_estrangeiro"
+    );
   },
   mounted() {
     this.service
       .fetchDataGrouppedByNationality() //
       .then(data => {
+        data.forEach(item => {
+          item["veiculo_estrangeiro"] =
+            item["veiculo_estrangeiro"] === "N" ? "Nacional" : "Estrangeiro";
+        });
         const chartConfigOpations = new AmchartsBar(
           "veiculo_estrangeiro",
           "total",
