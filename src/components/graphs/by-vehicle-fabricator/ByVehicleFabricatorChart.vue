@@ -35,10 +35,10 @@ export default {
       this.service
         .fetchDataGrouppedByStateAndHour(this.hoursFilter) //
         .then(statesGrouppedByState => {
-          this.fillGraph(statesGrouppedByState);
+          this.fillBarChart(statesGrouppedByState);
         });
     },
-    fillGraph(data) {
+    fillBarChart(data) {
       const chartConfigOpations = new AmchartsBar(
         "marca",
         "total",
