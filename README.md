@@ -1,4 +1,7 @@
 # infracoes-prf
+Esse projeto foi criado com o objetivo de fornecer gráficos expressando as infrações de trânsito registradas pela Polícia Rodoviária Federal (PRF) de 2007 até 2018.
+Os dados foram obtidos [aqui](https://www.prf.gov.br/portal/dados-abertos/infracoes). 
+O board com o roadmap do projeto está disponível [aqui](https://trello.com/b/H3kq61ZE/infracoes-transito-prf).
 
 ## Project setup
 ```
