@@ -27,7 +27,7 @@ export default {
     }
   },
   created() {
-    this.service = OcurrenciesByStateService.build();
+    this.service = OcurrenciesByStateService.build("uf");
   },
   mounted() {
     this.render();

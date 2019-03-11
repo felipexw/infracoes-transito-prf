@@ -1,243 +1,243 @@
 ﻿{
-"content": [
+"coNacionalteNacionalt": [
 	{
 		"total" : 36564,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "10"
 	},
 	{
 		"total" : 34446,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "15"
 	},
 	{
 		"total" : 32767,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "11"
 	},
 	{
 		"total" : 31400,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "16"
 	},
 	{
 		"total" : 28846,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "09"
 	},
 	{
 		"total" : 27528,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "14"
 	},
 	{
 		"total" : 24741,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "17"
 	},
 	{
 		"total" : 20490,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "12"
 	},
 	{
 		"total" : 20205,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "13"
 	},
 	{
 		"total" : 18012,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "08"
 	},
 	{
 		"total" : 17036,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "18"
 	},
 	{
 		"total" : 12159,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "07"
 	},
 	{
 		"total" : 9575,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "19"
 	},
 	{
 		"total" : 6661,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "06"
 	},
 	{
 		"total" : 6142,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "20"
 	},
 	{
 		"total" : 5478,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "21"
 	},
 	{
 		"total" : 5021,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "22"
 	},
 	{
 		"total" : 4649,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "23"
 	},
 	{
 		"total" : 3947,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "00"
 	},
 	{
 		"total" : 3563,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "05"
 	},
 	{
 		"total" : 3317,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "01"
 	},
 	{
 		"total" : 2805,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "04"
 	},
 	{
 		"total" : 2608,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "02"
 	},
 	{
 		"total" : 2377,
-		"veiculo_estrangeiro" : "N",
+		"veiculo_estrangeiro" : "Nacional",
 		"hora" : "03"
 	},
 	{
 		"total" : 191,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "11"
 	},
 	{
 		"total" : 172,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "12"
 	},
 	{
 		"total" : 156,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "16"
 	},
 	{
 		"total" : 150,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "10"
 	},
 	{
 		"total" : 144,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "09"
 	},
 	{
 		"total" : 124,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "15"
 	},
 	{
 		"total" : 117,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "17"
 	},
 	{
 		"total" : 117,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "14"
 	},
 	{
 		"total" : 109,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "08"
 	},
 	{
 		"total" : 108,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "13"
 	},
 	{
 		"total" : 89,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "18"
 	},
 	{
 		"total" : 66,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "07"
 	},
 	{
 		"total" : 62,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "19"
 	},
 	{
 		"total" : 55,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "20"
 	},
 	{
 		"total" : 45,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "21"
 	},
 	{
 		"total" : 29,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "23"
 	},
 	{
 		"total" : 29,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "01"
 	},
 	{
 		"total" : 21,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "22"
 	},
 	{
 		"total" : 19,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "03"
 	},
 	{
 		"total" : 18,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "06"
 	},
 	{
 		"total" : 16,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "02"
 	},
 	{
 		"total" : 13,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "00"
 	},
 	{
 		"total" : 12,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "04"
 	},
 	{
 		"total" : 11,
-		"veiculo_estrangeiro" : "S",
+		"veiculo_estrangeiro" : "Estrangeiro",
 		"hora" : "05"
 	}
 ]}
